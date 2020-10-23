@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = FindEvenNumbersTestCase.test()
+    let res = SquaredSortedArrayTestCase.test()
     print(res)
 }
