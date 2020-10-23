@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = MaxConsecutiveOnesTestCase.test()
+    let res = FindEvenNumbersTestCase.test()
     print(res)
 }

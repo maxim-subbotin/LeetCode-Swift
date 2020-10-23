@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D661DE1A25431F1500138B8A /* FindEvenNumbersTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = D661DE1925431F1500138B8A /* FindEvenNumbersTestCase.swift */; };
 		D66CF7D62542F63D00E9A772 /* LeetCode.h in Headers */ = {isa = PBXBuildFile; fileRef = D66CF7D42542F63D00E9A772 /* LeetCode.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D66CF7E42542F65E00E9A772 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D66CF7E32542F65E00E9A772 /* main.swift */; };
 		D66CF7EB2542F66600E9A772 /* LeetCode.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D66CF7D12542F63D00E9A772 /* LeetCode.framework */; };
@@ -49,6 +50,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		D661DE1925431F1500138B8A /* FindEvenNumbersTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindEvenNumbersTestCase.swift; sourceTree = "<group>"; };
 		D66CF7D12542F63D00E9A772 /* LeetCode.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = LeetCode.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D66CF7D42542F63D00E9A772 /* LeetCode.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LeetCode.h; sourceTree = "<group>"; };
 		D66CF7D52542F63D00E9A772 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -134,6 +136,7 @@
 			isa = PBXGroup;
 			children = (
 				D66CF7F52542F7FD00E9A772 /* MaxConsecutiveOnesTestCase.swift */,
+				D661DE1925431F1500138B8A /* FindEvenNumbersTestCase.swift */,
 			);
 			path = Introduction;
 			sourceTree = "<group>";
@@ -242,6 +245,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D66CF7F62542F7FD00E9A772 /* MaxConsecutiveOnesTestCase.swift in Sources */,
+				D661DE1A25431F1500138B8A /* FindEvenNumbersTestCase.swift in Sources */,
 				D66CF7F12542F6B100E9A772 /* TestCase.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
