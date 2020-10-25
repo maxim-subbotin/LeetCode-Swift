@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = DuplicateZerosTestCase.test()
+    let res = MergeSortedArraysTestCase.test()
     print(res)
 }

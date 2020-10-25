@@ -16,6 +16,7 @@
 		D66CF7F12542F6B100E9A772 /* TestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = D66CF7F02542F6B100E9A772 /* TestCase.swift */; };
 		D66CF7F62542F7FD00E9A772 /* MaxConsecutiveOnesTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = D66CF7F52542F7FD00E9A772 /* MaxConsecutiveOnesTestCase.swift */; };
 		D69B7067254479BE00424DBB /* DuplicateZerosTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = D69B7066254479BE00424DBB /* DuplicateZerosTestCase.swift */; };
+		E5DF7ADD2545AB1400B51009 /* MergeSortedArraysTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5DF7ADC2545AB1400B51009 /* MergeSortedArraysTestCase.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -62,6 +63,7 @@
 		D66CF7F02542F6B100E9A772 /* TestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestCase.swift; sourceTree = "<group>"; };
 		D66CF7F52542F7FD00E9A772 /* MaxConsecutiveOnesTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxConsecutiveOnesTestCase.swift; sourceTree = "<group>"; };
 		D69B7066254479BE00424DBB /* DuplicateZerosTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DuplicateZerosTestCase.swift; sourceTree = "<group>"; };
+		E5DF7ADC2545AB1400B51009 /* MergeSortedArraysTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeSortedArraysTestCase.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -151,6 +153,7 @@
 			isa = PBXGroup;
 			children = (
 				D69B7066254479BE00424DBB /* DuplicateZerosTestCase.swift */,
+				E5DF7ADC2545AB1400B51009 /* MergeSortedArraysTestCase.swift */,
 			);
 			path = InsertingItems;
 			sourceTree = "<group>";
@@ -263,6 +266,7 @@
 				D661DE1A25431F1500138B8A /* FindEvenNumbersTestCase.swift in Sources */,
 				D661DE1E2543263200138B8A /* SquaresSortedArrayTestCase.swift in Sources */,
 				D66CF7F12542F6B100E9A772 /* TestCase.swift in Sources */,
+				E5DF7ADD2545AB1400B51009 /* MergeSortedArraysTestCase.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
