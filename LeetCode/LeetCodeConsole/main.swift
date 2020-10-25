@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = MergeSortedArraysTestCase.test()
+    let res = RemoveElementTestCase.test()
     print(res)
 }
