@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = RemoveDuplicatesFromSortedArrayTestCase.test()
+    let res = CheckNAndDoubleExistTestCase.test()
     print(res)
 }
