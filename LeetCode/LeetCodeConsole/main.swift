@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = ValidMountainTestCase.test()
+    let res = ReplaceElementsWtihGreatestRightTestCase.test()
     print(res)
 }
