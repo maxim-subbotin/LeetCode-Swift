@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = MoveZeroesTestCase.test()
+    let res = SortArrayByParityTestCase.test()
     print(res)
 }
