@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = CheckNAndDoubleExistTestCase.test()
+    let res = ValidMountainTestCase.test()
     print(res)
 }
