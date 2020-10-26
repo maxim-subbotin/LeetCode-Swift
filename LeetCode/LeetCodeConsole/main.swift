@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = ReplaceElementsWtihGreatestRightTestCase.test()
+    let res = RemoveDuplicatesV2TestCase.test()
     print(res)
 }
