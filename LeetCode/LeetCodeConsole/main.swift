@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = RemoveElementTestCase.test()
+    let res = RemoveDuplicatesFromSortedArrayTestCase.test()
     print(res)
 }
