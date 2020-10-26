@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = RemoveDuplicatesV2TestCase.test()
+    let res = MoveZeroesTestCase.test()
     print(res)
 }
