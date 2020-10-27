@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = HeightCheckerTestCase.test()
+    let res = ThirdMaximumNumberTestCase.test()
     print(res)
 }
