@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = SortArrayByParityTestCase.test()
+    let res = HeightCheckerTestCase.test()
     print(res)
 }
