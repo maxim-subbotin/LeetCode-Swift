@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = ThirdMaximumNumberTestCase.test()
+    let res = FindDisappearedNumbersTestCase.test()
     print(res)
 }
