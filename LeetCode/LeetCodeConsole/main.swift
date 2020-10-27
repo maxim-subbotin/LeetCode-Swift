@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = RotateArrayTestCase.test()
+    let res = ContainsDuplicateTestCase.test()
     print(res)
 }

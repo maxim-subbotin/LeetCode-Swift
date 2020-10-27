@@ -12,6 +12,7 @@
 		D6280A0425481EF2006F67B1 /* FindDisappearedNumbersTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6280A0325481EF2006F67B1 /* FindDisappearedNumbersTestCase.swift */; };
 		D6280A0925482C82006F67B1 /* BestTimeToBuyAndSellStockTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6280A0825482C82006F67B1 /* BestTimeToBuyAndSellStockTestCase.swift */; };
 		D6280A0C254841B9006F67B1 /* RotateArrayTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6280A0B254841B9006F67B1 /* RotateArrayTestCase.swift */; };
+		D6280A0F25485188006F67B1 /* ContainsDuplicateTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6280A0E25485188006F67B1 /* ContainsDuplicateTestCase.swift */; };
 		D661DE1A25431F1500138B8A /* FindEvenNumbersTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = D661DE1925431F1500138B8A /* FindEvenNumbersTestCase.swift */; };
 		D661DE1E2543263200138B8A /* SquaresSortedArrayTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = D661DE1D2543263200138B8A /* SquaresSortedArrayTestCase.swift */; };
 		D66CF7D62542F63D00E9A772 /* LeetCode.h in Headers */ = {isa = PBXBuildFile; fileRef = D66CF7D42542F63D00E9A772 /* LeetCode.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -71,6 +72,7 @@
 		D6280A0325481EF2006F67B1 /* FindDisappearedNumbersTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindDisappearedNumbersTestCase.swift; sourceTree = "<group>"; };
 		D6280A0825482C82006F67B1 /* BestTimeToBuyAndSellStockTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BestTimeToBuyAndSellStockTestCase.swift; sourceTree = "<group>"; };
 		D6280A0B254841B9006F67B1 /* RotateArrayTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotateArrayTestCase.swift; sourceTree = "<group>"; };
+		D6280A0E25485188006F67B1 /* ContainsDuplicateTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContainsDuplicateTestCase.swift; sourceTree = "<group>"; };
 		D661DE1925431F1500138B8A /* FindEvenNumbersTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindEvenNumbersTestCase.swift; sourceTree = "<group>"; };
 		D661DE1D2543263200138B8A /* SquaresSortedArrayTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SquaresSortedArrayTestCase.swift; sourceTree = "<group>"; };
 		D66CF7D12542F63D00E9A772 /* LeetCode.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = LeetCode.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -134,6 +136,7 @@
 			children = (
 				D6280A0825482C82006F67B1 /* BestTimeToBuyAndSellStockTestCase.swift */,
 				D6280A0B254841B9006F67B1 /* RotateArrayTestCase.swift */,
+				D6280A0E25485188006F67B1 /* ContainsDuplicateTestCase.swift */,
 			);
 			path = Array;
 			sourceTree = "<group>";
@@ -352,6 +355,7 @@
 				E5DF7AE12545B2C600B51009 /* RemoveElementTestCase.swift in Sources */,
 				D6280A0125480122006F67B1 /* ThirdMaximumNumberTestCase.swift in Sources */,
 				D699EA0F2546EF92005F79A0 /* ReplaceElementsWtihGreatestRightTestCase.swift in Sources */,
+				D6280A0F25485188006F67B1 /* ContainsDuplicateTestCase.swift in Sources */,
 				D6280A0C254841B9006F67B1 /* RotateArrayTestCase.swift in Sources */,
 				D66CF7F62542F7FD00E9A772 /* MaxConsecutiveOnesTestCase.swift in Sources */,
 				D661DE1A25431F1500138B8A /* FindEvenNumbersTestCase.swift in Sources */,
