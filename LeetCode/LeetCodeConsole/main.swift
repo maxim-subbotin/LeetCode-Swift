@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = FindDisappearedNumbersTestCase.test()
+    let res = BestTimeToBuyAndSellStockTestCase.test()
     print(res)
 }
