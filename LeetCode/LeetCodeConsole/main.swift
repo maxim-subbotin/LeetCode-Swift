@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = BestTimeToBuyAndSellStockTestCase.test()
+    let res = RotateArrayTestCase.test()
     print(res)
 }
