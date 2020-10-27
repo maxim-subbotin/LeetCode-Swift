@@ -2,7 +2,7 @@
 //  CheckNAndDoubleExistTestCase.swift
 //  LeetCode
 //
-//  Created by Snappii on 10/26/20.
+//  Created by Max Subbotin on 10/26/20.
 //
 
 import Foundation

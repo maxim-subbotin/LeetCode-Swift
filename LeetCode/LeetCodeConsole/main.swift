@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = ContainsDuplicateTestCase.test()
+    let res = SingleNumberTestCase.test()
     print(res)
 }

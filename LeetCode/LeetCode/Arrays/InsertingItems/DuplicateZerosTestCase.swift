@@ -2,7 +2,7 @@
 //  DuplicateZerosTestCase.swift
 //  LeetCode
 //
-//  Created by Snappii on 10/24/20.
+//  Created by Max Subbotin on 10/24/20.
 //
 
 import Foundation
