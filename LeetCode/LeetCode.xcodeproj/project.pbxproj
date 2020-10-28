@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		D60B4822254951230064BA37 /* IntersectionOfTwoArraysV2TestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = D60B4821254951230064BA37 /* IntersectionOfTwoArraysV2TestCase.swift */; };
+		D60B4825254958E30064BA37 /* PlusOneTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = D60B4824254958E30064BA37 /* PlusOneTestCase.swift */; };
 		D62809FE2547FE46006F67B1 /* HeightCheckerTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = D62809FD2547FE46006F67B1 /* HeightCheckerTestCase.swift */; };
 		D6280A0125480122006F67B1 /* ThirdMaximumNumberTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6280A0025480122006F67B1 /* ThirdMaximumNumberTestCase.swift */; };
 		D6280A0425481EF2006F67B1 /* FindDisappearedNumbersTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6280A0325481EF2006F67B1 /* FindDisappearedNumbersTestCase.swift */; };
@@ -70,6 +71,7 @@
 
 /* Begin PBXFileReference section */
 		D60B4821254951230064BA37 /* IntersectionOfTwoArraysV2TestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntersectionOfTwoArraysV2TestCase.swift; sourceTree = "<group>"; };
+		D60B4824254958E30064BA37 /* PlusOneTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlusOneTestCase.swift; sourceTree = "<group>"; };
 		D62809FD2547FE46006F67B1 /* HeightCheckerTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeightCheckerTestCase.swift; sourceTree = "<group>"; };
 		D6280A0025480122006F67B1 /* ThirdMaximumNumberTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdMaximumNumberTestCase.swift; sourceTree = "<group>"; };
 		D6280A0325481EF2006F67B1 /* FindDisappearedNumbersTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindDisappearedNumbersTestCase.swift; sourceTree = "<group>"; };
@@ -143,6 +145,7 @@
 				D6280A0E25485188006F67B1 /* ContainsDuplicateTestCase.swift */,
 				D6280A112548695F006F67B1 /* SingleNumberTestCase.swift */,
 				D60B4821254951230064BA37 /* IntersectionOfTwoArraysV2TestCase.swift */,
+				D60B4824254958E30064BA37 /* PlusOneTestCase.swift */,
 			);
 			path = Array;
 			sourceTree = "<group>";
@@ -374,6 +377,7 @@
 				D60B4822254951230064BA37 /* IntersectionOfTwoArraysV2TestCase.swift in Sources */,
 				D699EA042546C431005F79A0 /* CheckNAndDoubleExistTestCase.swift in Sources */,
 				D66CF7F12542F6B100E9A772 /* TestCase.swift in Sources */,
+				D60B4825254958E30064BA37 /* PlusOneTestCase.swift in Sources */,
 				D699EA162547131F005F79A0 /* MoveZeroesTestCase.swift in Sources */,
 				D699EA1925471D45005F79A0 /* SortArrayByParityTestCase.swift in Sources */,
 				D699EA132546F6C1005F79A0 /* RemoveDuplicatesV2TestCase.swift in Sources */,
