@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = SingleNumberTestCase.test()
+    let res = IntersectionOfTwoArraysV2TestCase.test()
     print(res)
 }
