@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = PlusOneTestCase.test()
+    let res = TwoSumTestCase.test()
     print(res)
 }
