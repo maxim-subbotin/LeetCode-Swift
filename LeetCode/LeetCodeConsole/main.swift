@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = TwoSumTestCase.test()
+    let res = ValidSudokuTestCase.test()
     print(res)
 }

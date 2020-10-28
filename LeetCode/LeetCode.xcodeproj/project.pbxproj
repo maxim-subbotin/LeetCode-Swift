@@ -10,6 +10,7 @@
 		D60B4822254951230064BA37 /* IntersectionOfTwoArraysV2TestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = D60B4821254951230064BA37 /* IntersectionOfTwoArraysV2TestCase.swift */; };
 		D60B4825254958E30064BA37 /* PlusOneTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = D60B4824254958E30064BA37 /* PlusOneTestCase.swift */; };
 		D60B482C25497ED50064BA37 /* TwoSumTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = D60B482B25497ED50064BA37 /* TwoSumTestCase.swift */; };
+		D60B482F25499AA40064BA37 /* ValidSudokuTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = D60B482E25499AA40064BA37 /* ValidSudokuTestCase.swift */; };
 		D62809FE2547FE46006F67B1 /* HeightCheckerTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = D62809FD2547FE46006F67B1 /* HeightCheckerTestCase.swift */; };
 		D6280A0125480122006F67B1 /* ThirdMaximumNumberTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6280A0025480122006F67B1 /* ThirdMaximumNumberTestCase.swift */; };
 		D6280A0425481EF2006F67B1 /* FindDisappearedNumbersTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6280A0325481EF2006F67B1 /* FindDisappearedNumbersTestCase.swift */; };
@@ -74,6 +75,7 @@
 		D60B4821254951230064BA37 /* IntersectionOfTwoArraysV2TestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntersectionOfTwoArraysV2TestCase.swift; sourceTree = "<group>"; };
 		D60B4824254958E30064BA37 /* PlusOneTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlusOneTestCase.swift; sourceTree = "<group>"; };
 		D60B482B25497ED50064BA37 /* TwoSumTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoSumTestCase.swift; sourceTree = "<group>"; };
+		D60B482E25499AA40064BA37 /* ValidSudokuTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidSudokuTestCase.swift; sourceTree = "<group>"; };
 		D62809FD2547FE46006F67B1 /* HeightCheckerTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeightCheckerTestCase.swift; sourceTree = "<group>"; };
 		D6280A0025480122006F67B1 /* ThirdMaximumNumberTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdMaximumNumberTestCase.swift; sourceTree = "<group>"; };
 		D6280A0325481EF2006F67B1 /* FindDisappearedNumbersTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindDisappearedNumbersTestCase.swift; sourceTree = "<group>"; };
@@ -149,6 +151,7 @@
 				D60B4821254951230064BA37 /* IntersectionOfTwoArraysV2TestCase.swift */,
 				D60B4824254958E30064BA37 /* PlusOneTestCase.swift */,
 				D60B482B25497ED50064BA37 /* TwoSumTestCase.swift */,
+				D60B482E25499AA40064BA37 /* ValidSudokuTestCase.swift */,
 			);
 			path = Array;
 			sourceTree = "<group>";
@@ -372,6 +375,7 @@
 				D66CF7F62542F7FD00E9A772 /* MaxConsecutiveOnesTestCase.swift in Sources */,
 				D661DE1A25431F1500138B8A /* FindEvenNumbersTestCase.swift in Sources */,
 				D661DE1E2543263200138B8A /* SquaresSortedArrayTestCase.swift in Sources */,
+				D60B482F25499AA40064BA37 /* ValidSudokuTestCase.swift in Sources */,
 				D699EA0B2546CFC3005F79A0 /* ValidMountainTestCase.swift in Sources */,
 				D699EA002546BAC1005F79A0 /* RemoveDuplicatedFromSortedArrayTestCase.swift in Sources */,
 				D6280A0425481EF2006F67B1 /* FindDisappearedNumbersTestCase.swift in Sources */,
