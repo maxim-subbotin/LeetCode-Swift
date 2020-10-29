@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = ReverseIntegerTestCase.test()
+    let res = FirstUniqueCharactedInStringTestCase.test()
     print(res)
 }
