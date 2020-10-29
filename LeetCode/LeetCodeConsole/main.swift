@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = RotateImageTestCase.test()
+    let res = ReverseStringTestCase.test()
     print(res)
 }

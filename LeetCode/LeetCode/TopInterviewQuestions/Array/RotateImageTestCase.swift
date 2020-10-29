@@ -2,7 +2,7 @@
 //  RotateImageTestCase.swift
 //  LeetCode
 //
-//  Created by Snappii on 10/29/20.
+//  Created by Max Subbotin on 10/29/20.
 //
 
 import Foundation
