@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = ValidPalindromeTestCase.test()
+    let res = StringToIntegerTestCase.test()
     print(res)
 }
