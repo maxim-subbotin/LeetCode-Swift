@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = ValidAnagramTestCase.test()
+    let res = ValidPalindromeTestCase.test()
     print(res)
 }
