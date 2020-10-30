@@ -2,7 +2,7 @@
 //  StringToIntegerTestCase.swift
 //  LeetCode
 //
-//  Created by Max Subbbotin on 10/30/20.
+//  Created by Max Subbotin on 10/30/20.
 //
 
 import Foundation

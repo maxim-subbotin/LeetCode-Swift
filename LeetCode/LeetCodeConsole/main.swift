@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = StringToIntegerTestCase.test()
+    let res = StrStrTestCase.test()
     print(res)
 }
