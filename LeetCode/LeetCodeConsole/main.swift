@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = FirstUniqueCharactedInStringTestCase.test()
+    let res = ValidAnagramTestCase.test()
     print(res)
 }
