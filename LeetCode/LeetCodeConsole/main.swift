@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = DeleteNodeInLinkedListTestCase.test()
+    let res = RemoveNthNodeFromEndTestCase.test()
     print(res)
 }
