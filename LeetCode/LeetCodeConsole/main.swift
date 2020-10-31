@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = StrStrTestCase.test()
+    let res = CountAndSayTestCase.test()
     print(res)
 }
