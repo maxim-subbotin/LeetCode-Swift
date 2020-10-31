@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = CountAndSayTestCase.test()
+    let res = LongestCommonPrefixTestCase.test()
     print(res)
 }
