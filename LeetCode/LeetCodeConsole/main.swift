@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = LongestCommonPrefixTestCase.test()
+    let res = DeleteNodeInLinkedListTestCase.test()
     print(res)
 }
