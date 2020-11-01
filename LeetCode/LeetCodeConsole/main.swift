@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = MergeTwoSortedListsTestCase.test()
+    let res = PalindromeLinkedListTestCase.test()
     print(res)
 }
