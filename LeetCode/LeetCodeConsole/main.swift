@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = PalindromeLinkedListTestCase.test()
+    let res = LinkedListCycleTestCase.test()
     print(res)
 }

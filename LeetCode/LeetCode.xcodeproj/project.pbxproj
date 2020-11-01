@@ -52,6 +52,7 @@
 		E5DF7ADD2545AB1400B51009 /* MergeSortedArraysTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5DF7ADC2545AB1400B51009 /* MergeSortedArraysTestCase.swift */; };
 		E5DF7AE12545B2C600B51009 /* RemoveElementTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5DF7AE02545B2C600B51009 /* RemoveElementTestCase.swift */; };
 		E5F22641254F4E130076A1B0 /* PalindromeLinkedListTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5F22640254F4E130076A1B0 /* PalindromeLinkedListTestCase.swift */; };
+		E5F22644254F55F90076A1B0 /* LinkedListCycleTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5F22643254F55F90076A1B0 /* LinkedListCycleTestCase.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -134,6 +135,7 @@
 		E5DF7ADC2545AB1400B51009 /* MergeSortedArraysTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeSortedArraysTestCase.swift; sourceTree = "<group>"; };
 		E5DF7AE02545B2C600B51009 /* RemoveElementTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveElementTestCase.swift; sourceTree = "<group>"; };
 		E5F22640254F4E130076A1B0 /* PalindromeLinkedListTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PalindromeLinkedListTestCase.swift; sourceTree = "<group>"; };
+		E5F22643254F55F90076A1B0 /* LinkedListCycleTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkedListCycleTestCase.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -314,6 +316,7 @@
 				E5565FE9254D95D000BAE690 /* ReverseLinkedListTestCase.swift */,
 				E5883897254EB7AF005EAFF6 /* MergeTwoSortedListsTestCase.swift */,
 				E5F22640254F4E130076A1B0 /* PalindromeLinkedListTestCase.swift */,
+				E5F22643254F55F90076A1B0 /* LinkedListCycleTestCase.swift */,
 			);
 			path = LinkedList;
 			sourceTree = "<group>";
@@ -433,6 +436,7 @@
 				D69B7067254479BE00424DBB /* DuplicateZerosTestCase.swift in Sources */,
 				E5565FEA254D95D000BAE690 /* ReverseLinkedListTestCase.swift in Sources */,
 				E5DF7AE12545B2C600B51009 /* RemoveElementTestCase.swift in Sources */,
+				E5F22644254F55F90076A1B0 /* LinkedListCycleTestCase.swift in Sources */,
 				D6280A0125480122006F67B1 /* ThirdMaximumNumberTestCase.swift in Sources */,
 				D699EA0F2546EF92005F79A0 /* ReplaceElementsWtihGreatestRightTestCase.swift in Sources */,
 				D6280A0F25485188006F67B1 /* ContainsDuplicateTestCase.swift in Sources */,
