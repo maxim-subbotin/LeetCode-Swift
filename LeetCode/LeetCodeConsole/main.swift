@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = LinkedListCycleTestCase.test()
+    let res = FirstBadVersionTestCase.test()
     print(res)
 }
