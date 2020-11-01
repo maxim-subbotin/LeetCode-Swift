@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = RemoveNthNodeFromEndTestCase.test()
+    let res = ReverseLinkedListTestCase.test()
     print(res)
 }
