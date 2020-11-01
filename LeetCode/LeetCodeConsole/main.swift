@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = ReverseLinkedListTestCase.test()
+    let res = MergeTwoSortedListsTestCase.test()
     print(res)
 }
