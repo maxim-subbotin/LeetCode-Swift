@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = FirstBadVersionTestCase.test()
+    let res = FizzBussTestCase.test()
     print(res)
 }
