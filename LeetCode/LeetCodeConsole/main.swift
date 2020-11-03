@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = FizzBussTestCase.test()
+    let res = CountPrimesTestCase.test()
     print(res)
 }
