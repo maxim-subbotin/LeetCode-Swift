@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = PowerOfThreeTestCase.test()
+    let res = RomanToIntegerTestCase.test()
     print(res)
 }
