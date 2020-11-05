@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = CountPrimesTestCase.test()
+    let res = PowerOfThreeTestCase.test()
     print(res)
 }
