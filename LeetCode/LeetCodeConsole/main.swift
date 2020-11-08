@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = RomanToIntegerTestCase.test()
+    let res = MaximumDepthBinaryTreeTestCase.test()
     print(res)
 }
