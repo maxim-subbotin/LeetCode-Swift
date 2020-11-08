@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = MaximumDepthBinaryTreeTestCase.test()
+    let res = ValidateBinarySearchTreeTestCase.test()
     print(res)
 }

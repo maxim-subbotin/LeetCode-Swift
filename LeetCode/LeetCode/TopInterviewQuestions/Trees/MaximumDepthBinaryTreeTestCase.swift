@@ -7,17 +7,9 @@
 
 import Foundation
 
-public class MaximumDepthBinaryTreeTestCase: TestCase {
+public class MaximumDepthBinaryTreeTestCase: BinaryTreeTestCase, TestCase {
     public var name: String = "Maximum Depth of Binary Tree"
-    var array: [Int?]
     var result = 0
-    var tree: TreeNode?
-    
-    
-    init(withArray arr: [Int?]) {
-        self.array = arr
-        tree = TreeNode.from(array: self.array)
-    }
     
     public func run() {
         result = maxDepth(tree)
