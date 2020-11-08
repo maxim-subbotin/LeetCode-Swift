@@ -49,6 +49,7 @@
 		E5306E35255886C800EE8E75 /* MaximumDepthBinaryTreeTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5306E34255886C800EE8E75 /* MaximumDepthBinaryTreeTestCase.swift */; };
 		E5306E3825588D1C00EE8E75 /* ValidateBinarySearchTreeTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5306E3725588D1C00EE8E75 /* ValidateBinarySearchTreeTestCase.swift */; };
 		E5306E3B25588D7300EE8E75 /* BinaryTreeTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5306E3A25588D7300EE8E75 /* BinaryTreeTestCase.swift */; };
+		E5306E3F255892C700EE8E75 /* SymmetricTreeTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5306E3E255892C700EE8E75 /* SymmetricTreeTestCase.swift */; };
 		E5346A91255497EC0087373B /* PowerOfThreeTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5346A90255497EC0087373B /* PowerOfThreeTestCase.swift */; };
 		E5346A9425549D380087373B /* RomanToIntegerTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5346A9325549D380087373B /* RomanToIntegerTestCase.swift */; };
 		E5346A982554A5B90087373B /* TreeNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5346A972554A5B90087373B /* TreeNode.swift */; };
@@ -141,6 +142,7 @@
 		E5306E34255886C800EE8E75 /* MaximumDepthBinaryTreeTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumDepthBinaryTreeTestCase.swift; sourceTree = "<group>"; };
 		E5306E3725588D1C00EE8E75 /* ValidateBinarySearchTreeTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidateBinarySearchTreeTestCase.swift; sourceTree = "<group>"; };
 		E5306E3A25588D7300EE8E75 /* BinaryTreeTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryTreeTestCase.swift; sourceTree = "<group>"; };
+		E5306E3E255892C700EE8E75 /* SymmetricTreeTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SymmetricTreeTestCase.swift; sourceTree = "<group>"; };
 		E5346A90255497EC0087373B /* PowerOfThreeTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PowerOfThreeTestCase.swift; sourceTree = "<group>"; };
 		E5346A9325549D380087373B /* RomanToIntegerTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RomanToIntegerTestCase.swift; sourceTree = "<group>"; };
 		E5346A972554A5B90087373B /* TreeNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeNode.swift; sourceTree = "<group>"; };
@@ -346,6 +348,7 @@
 				E5306E3A25588D7300EE8E75 /* BinaryTreeTestCase.swift */,
 				E5306E34255886C800EE8E75 /* MaximumDepthBinaryTreeTestCase.swift */,
 				E5306E3725588D1C00EE8E75 /* ValidateBinarySearchTreeTestCase.swift */,
+				E5306E3E255892C700EE8E75 /* SymmetricTreeTestCase.swift */,
 			);
 			path = Trees;
 			sourceTree = "<group>";
@@ -531,6 +534,7 @@
 				D699EA132546F6C1005F79A0 /* RemoveDuplicatesV2TestCase.swift in Sources */,
 				D6B145AB254C25250062720C /* StringToIntegerTestCase.swift in Sources */,
 				D6280A122548695F006F67B1 /* SingleNumberTestCase.swift in Sources */,
+				E5306E3F255892C700EE8E75 /* SymmetricTreeTestCase.swift in Sources */,
 				D6B145A6254BFC8D0062720C /* ValidPalindromeTestCase.swift in Sources */,
 				E5346A9425549D380087373B /* RomanToIntegerTestCase.swift in Sources */,
 				E5DF7ADD2545AB1400B51009 /* MergeSortedArraysTestCase.swift in Sources */,

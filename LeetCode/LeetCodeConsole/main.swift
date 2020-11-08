@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = ValidateBinarySearchTreeTestCase.test()
+    let res = SymmetricTreeTestCase.test()
     print(res)
 }
