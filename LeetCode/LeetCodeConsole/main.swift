@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = SymmetricTreeTestCase.test()
+    let res = BinaryTreeLevelOrderTraversalTestCase.test()
     print(res)
 }
