@@ -59,6 +59,7 @@
 		E5565FE7254D8D3600BAE690 /* RemoveNthNodeFromEndTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5565FE6254D8D3600BAE690 /* RemoveNthNodeFromEndTestCase.swift */; };
 		E5565FEA254D95D000BAE690 /* ReverseLinkedListTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5565FE9254D95D000BAE690 /* ReverseLinkedListTestCase.swift */; };
 		E5883898254EB7AF005EAFF6 /* MergeTwoSortedListsTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5883897254EB7AF005EAFF6 /* MergeTwoSortedListsTestCase.swift */; };
+		E5D26F6E255C77E200BBFCBD /* ConvertSortedArrayToBinarySearchTreeTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5D26F6D255C77E200BBFCBD /* ConvertSortedArrayToBinarySearchTreeTestCase.swift */; };
 		E5DF7ADD2545AB1400B51009 /* MergeSortedArraysTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5DF7ADC2545AB1400B51009 /* MergeSortedArraysTestCase.swift */; };
 		E5DF7AE12545B2C600B51009 /* RemoveElementTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5DF7AE02545B2C600B51009 /* RemoveElementTestCase.swift */; };
 		E5F22641254F4E130076A1B0 /* PalindromeLinkedListTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5F22640254F4E130076A1B0 /* PalindromeLinkedListTestCase.swift */; };
@@ -153,6 +154,7 @@
 		E5565FE6254D8D3600BAE690 /* RemoveNthNodeFromEndTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveNthNodeFromEndTestCase.swift; sourceTree = "<group>"; };
 		E5565FE9254D95D000BAE690 /* ReverseLinkedListTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseLinkedListTestCase.swift; sourceTree = "<group>"; };
 		E5883897254EB7AF005EAFF6 /* MergeTwoSortedListsTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeTwoSortedListsTestCase.swift; sourceTree = "<group>"; };
+		E5D26F6D255C77E200BBFCBD /* ConvertSortedArrayToBinarySearchTreeTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConvertSortedArrayToBinarySearchTreeTestCase.swift; sourceTree = "<group>"; };
 		E5DF7ADC2545AB1400B51009 /* MergeSortedArraysTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeSortedArraysTestCase.swift; sourceTree = "<group>"; };
 		E5DF7AE02545B2C600B51009 /* RemoveElementTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveElementTestCase.swift; sourceTree = "<group>"; };
 		E5F22640254F4E130076A1B0 /* PalindromeLinkedListTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PalindromeLinkedListTestCase.swift; sourceTree = "<group>"; };
@@ -352,6 +354,7 @@
 				E5306E3725588D1C00EE8E75 /* ValidateBinarySearchTreeTestCase.swift */,
 				E5306E3E255892C700EE8E75 /* SymmetricTreeTestCase.swift */,
 				E52F0AAB2559EAFC00104807 /* BinaryTreeLevelOrderTraversalTestCase.swift */,
+				E5D26F6D255C77E200BBFCBD /* ConvertSortedArrayToBinarySearchTreeTestCase.swift */,
 			);
 			path = Trees;
 			sourceTree = "<group>";
@@ -520,6 +523,7 @@
 				E51DF5DA254D471300DF1001 /* CountAndSayTestCase.swift in Sources */,
 				E51DF5DD254D4C0100DF1001 /* LongestCommonPrefixTestCase.swift in Sources */,
 				D6280A0925482C82006F67B1 /* BestTimeToBuyAndSellStockTestCase.swift in Sources */,
+				E5D26F6E255C77E200BBFCBD /* ConvertSortedArrayToBinarySearchTreeTestCase.swift in Sources */,
 				E5565FE4254D86BD00BAE690 /* DeleteNodeInLinkedListTestCase.swift in Sources */,
 				E5565FE7254D8D3600BAE690 /* RemoveNthNodeFromEndTestCase.swift in Sources */,
 				D60B4822254951230064BA37 /* IntersectionOfTwoArraysV2TestCase.swift in Sources */,

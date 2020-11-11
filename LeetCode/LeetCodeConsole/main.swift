@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = BinaryTreeLevelOrderTraversalTestCase.test()
+    let res = ConvertSortedArrayToBinarySearchTreeTestCase.test()
     print(res)
 }
