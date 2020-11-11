@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = MinStackTestCase.test()
+    let res = NumberOf1BitsTestCase.test()
     print(res)
 }
