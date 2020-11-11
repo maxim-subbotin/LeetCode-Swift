@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = ConvertSortedArrayToBinarySearchTreeTestCase.test()
+    let res = MinStackTestCase.test()
     print(res)
 }
