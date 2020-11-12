@@ -59,6 +59,7 @@
 		E5565FE7254D8D3600BAE690 /* RemoveNthNodeFromEndTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5565FE6254D8D3600BAE690 /* RemoveNthNodeFromEndTestCase.swift */; };
 		E5565FEA254D95D000BAE690 /* ReverseLinkedListTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5565FE9254D95D000BAE690 /* ReverseLinkedListTestCase.swift */; };
 		E5883898254EB7AF005EAFF6 /* MergeTwoSortedListsTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5883897254EB7AF005EAFF6 /* MergeTwoSortedListsTestCase.swift */; };
+		E593B933255DD79D00326B12 /* HammingDistanceTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E593B932255DD79D00326B12 /* HammingDistanceTestCase.swift */; };
 		E5D26F6E255C77E200BBFCBD /* ConvertSortedArrayToBinarySearchTreeTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5D26F6D255C77E200BBFCBD /* ConvertSortedArrayToBinarySearchTreeTestCase.swift */; };
 		E5D26F72255C7C7C00BBFCBD /* ShuffleArrayTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5D26F71255C7C7C00BBFCBD /* ShuffleArrayTestCase.swift */; };
 		E5D26F76255C7E7400BBFCBD /* MinStackTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5D26F75255C7E7400BBFCBD /* MinStackTestCase.swift */; };
@@ -157,6 +158,7 @@
 		E5565FE6254D8D3600BAE690 /* RemoveNthNodeFromEndTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveNthNodeFromEndTestCase.swift; sourceTree = "<group>"; };
 		E5565FE9254D95D000BAE690 /* ReverseLinkedListTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseLinkedListTestCase.swift; sourceTree = "<group>"; };
 		E5883897254EB7AF005EAFF6 /* MergeTwoSortedListsTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeTwoSortedListsTestCase.swift; sourceTree = "<group>"; };
+		E593B932255DD79D00326B12 /* HammingDistanceTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HammingDistanceTestCase.swift; sourceTree = "<group>"; };
 		E5D26F6D255C77E200BBFCBD /* ConvertSortedArrayToBinarySearchTreeTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConvertSortedArrayToBinarySearchTreeTestCase.swift; sourceTree = "<group>"; };
 		E5D26F71255C7C7C00BBFCBD /* ShuffleArrayTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShuffleArrayTestCase.swift; sourceTree = "<group>"; };
 		E5D26F75255C7E7400BBFCBD /* MinStackTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinStackTestCase.swift; sourceTree = "<group>"; };
@@ -394,6 +396,7 @@
 			isa = PBXGroup;
 			children = (
 				E5D26F79255C867D00BBFCBD /* NumberOf1BitsTestCase.swift */,
+				E593B932255DD79D00326B12 /* HammingDistanceTestCase.swift */,
 			);
 			path = Others;
 			sourceTree = "<group>";
@@ -562,6 +565,7 @@
 				E5883898254EB7AF005EAFF6 /* MergeTwoSortedListsTestCase.swift in Sources */,
 				E5D26F72255C7C7C00BBFCBD /* ShuffleArrayTestCase.swift in Sources */,
 				E5F22641254F4E130076A1B0 /* PalindromeLinkedListTestCase.swift in Sources */,
+				E593B933255DD79D00326B12 /* HammingDistanceTestCase.swift in Sources */,
 				D60B482C25497ED50064BA37 /* TwoSumTestCase.swift in Sources */,
 				D699EA162547131F005F79A0 /* MoveZeroesTestCase.swift in Sources */,
 				E5F22648254F5AF40076A1B0 /* FirstBadVersionTestCase.swift in Sources */,

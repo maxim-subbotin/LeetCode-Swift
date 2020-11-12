@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = NumberOf1BitsTestCase.test()
+    let res = HammingDistanceTestCase.test()
     print(res)
 }
