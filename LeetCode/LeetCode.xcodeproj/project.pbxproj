@@ -43,6 +43,7 @@
 		D6B145AF254C3D990062720C /* StrStrTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6B145AE254C3D990062720C /* StrStrTestCase.swift */; };
 		D6B5C40E255160A600285672 /* CountPrimesTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6B5C40D255160A600285672 /* CountPrimesTestCase.swift */; };
 		D6CC8722254BED7D005D897D /* ValidAnagramTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6CC8721254BED7D005D897D /* ValidAnagramTestCase.swift */; };
+		E50525902561CFBA00FF1059 /* PascalsTriangleTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E505258F2561CFBA00FF1059 /* PascalsTriangleTestCase.swift */; };
 		E518F17E2550ADE70032EB87 /* FizzBuzzTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E518F17D2550ADE70032EB87 /* FizzBuzzTestCase.swift */; };
 		E51DF5DA254D471300DF1001 /* CountAndSayTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E51DF5D9254D471300DF1001 /* CountAndSayTestCase.swift */; };
 		E51DF5DD254D4C0100DF1001 /* LongestCommonPrefixTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E51DF5DC254D4C0100DF1001 /* LongestCommonPrefixTestCase.swift */; };
@@ -143,6 +144,7 @@
 		D6B145AE254C3D990062720C /* StrStrTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StrStrTestCase.swift; sourceTree = "<group>"; };
 		D6B5C40D255160A600285672 /* CountPrimesTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountPrimesTestCase.swift; sourceTree = "<group>"; };
 		D6CC8721254BED7D005D897D /* ValidAnagramTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidAnagramTestCase.swift; sourceTree = "<group>"; };
+		E505258F2561CFBA00FF1059 /* PascalsTriangleTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PascalsTriangleTestCase.swift; sourceTree = "<group>"; };
 		E518F17D2550ADE70032EB87 /* FizzBuzzTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FizzBuzzTestCase.swift; sourceTree = "<group>"; };
 		E51DF5D9254D471300DF1001 /* CountAndSayTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountAndSayTestCase.swift; sourceTree = "<group>"; };
 		E51DF5DC254D4C0100DF1001 /* LongestCommonPrefixTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestCommonPrefixTestCase.swift; sourceTree = "<group>"; };
@@ -400,6 +402,7 @@
 				E5D26F79255C867D00BBFCBD /* NumberOf1BitsTestCase.swift */,
 				E593B932255DD79D00326B12 /* HammingDistanceTestCase.swift */,
 				E58A25F42560834800EC750F /* ReverseBitsTestCase.swift */,
+				E505258F2561CFBA00FF1059 /* PascalsTriangleTestCase.swift */,
 			);
 			path = Others;
 			sourceTree = "<group>";
@@ -531,6 +534,7 @@
 				E5DF7AE12545B2C600B51009 /* RemoveElementTestCase.swift in Sources */,
 				E5F22644254F55F90076A1B0 /* LinkedListCycleTestCase.swift in Sources */,
 				D6280A0125480122006F67B1 /* ThirdMaximumNumberTestCase.swift in Sources */,
+				E50525902561CFBA00FF1059 /* PascalsTriangleTestCase.swift in Sources */,
 				D699EA0F2546EF92005F79A0 /* ReplaceElementsWtihGreatestRightTestCase.swift in Sources */,
 				D6280A0F25485188006F67B1 /* ContainsDuplicateTestCase.swift in Sources */,
 				E5346A91255497EC0087373B /* PowerOfThreeTestCase.swift in Sources */,

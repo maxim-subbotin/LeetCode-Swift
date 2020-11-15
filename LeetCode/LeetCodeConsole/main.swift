@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = ReverseBitsTestCase.test()
+    let res = PascalsTriangleTestCase.test()
     print(res)
 }
