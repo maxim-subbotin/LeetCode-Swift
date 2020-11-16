@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = ClimbingStairsTestCase.test()
+    let res = BestTimeBuyAndSellStockTestCase.test()
     print(res)
 }

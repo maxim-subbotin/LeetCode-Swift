@@ -64,6 +64,7 @@
 		E591DB6125630F9900E209B3 /* ValidParenthesesTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E591DB6025630F9900E209B3 /* ValidParenthesesTestCase.swift */; };
 		E591DB642563150D00E209B3 /* MissingNumberTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E591DB632563150D00E209B3 /* MissingNumberTestCase.swift */; };
 		E591DB6825631A1800E209B3 /* ClimbingStairsTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E591DB6725631A1800E209B3 /* ClimbingStairsTestCase.swift */; };
+		E591DB6C25631D9800E209B3 /* BestTimeBuyAndSellStockTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E591DB6B25631D9800E209B3 /* BestTimeBuyAndSellStockTestCase.swift */; };
 		E593B933255DD79D00326B12 /* HammingDistanceTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E593B932255DD79D00326B12 /* HammingDistanceTestCase.swift */; };
 		E5D26F6E255C77E200BBFCBD /* ConvertSortedArrayToBinarySearchTreeTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5D26F6D255C77E200BBFCBD /* ConvertSortedArrayToBinarySearchTreeTestCase.swift */; };
 		E5D26F72255C7C7C00BBFCBD /* ShuffleArrayTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5D26F71255C7C7C00BBFCBD /* ShuffleArrayTestCase.swift */; };
@@ -168,6 +169,7 @@
 		E591DB6025630F9900E209B3 /* ValidParenthesesTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidParenthesesTestCase.swift; sourceTree = "<group>"; };
 		E591DB632563150D00E209B3 /* MissingNumberTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MissingNumberTestCase.swift; sourceTree = "<group>"; };
 		E591DB6725631A1800E209B3 /* ClimbingStairsTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClimbingStairsTestCase.swift; sourceTree = "<group>"; };
+		E591DB6B25631D9800E209B3 /* BestTimeBuyAndSellStockTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BestTimeBuyAndSellStockTestCase.swift; sourceTree = "<group>"; };
 		E593B932255DD79D00326B12 /* HammingDistanceTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HammingDistanceTestCase.swift; sourceTree = "<group>"; };
 		E5D26F6D255C77E200BBFCBD /* ConvertSortedArrayToBinarySearchTreeTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConvertSortedArrayToBinarySearchTreeTestCase.swift; sourceTree = "<group>"; };
 		E5D26F71255C7C7C00BBFCBD /* ShuffleArrayTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShuffleArrayTestCase.swift; sourceTree = "<group>"; };
@@ -398,6 +400,7 @@
 			isa = PBXGroup;
 			children = (
 				E591DB6725631A1800E209B3 /* ClimbingStairsTestCase.swift */,
+				E591DB6B25631D9800E209B3 /* BestTimeBuyAndSellStockTestCase.swift */,
 			);
 			path = DynamicProgramming;
 			sourceTree = "<group>";
@@ -565,6 +568,7 @@
 				D60B482F25499AA40064BA37 /* ValidSudokuTestCase.swift in Sources */,
 				E5565FE1254D866F00BAE690 /* ListNode.swift in Sources */,
 				D699EA0B2546CFC3005F79A0 /* ValidMountainTestCase.swift in Sources */,
+				E591DB6C25631D9800E209B3 /* BestTimeBuyAndSellStockTestCase.swift in Sources */,
 				D699EA002546BAC1005F79A0 /* RemoveDuplicatedFromSortedArrayTestCase.swift in Sources */,
 				E5306E3825588D1C00EE8E75 /* ValidateBinarySearchTreeTestCase.swift in Sources */,
 				D6280A0425481EF2006F67B1 /* FindDisappearedNumbersTestCase.swift in Sources */,
