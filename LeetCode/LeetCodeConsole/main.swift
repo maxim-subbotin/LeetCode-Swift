@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = ValidParenthesesTestCase.test()
+    let res = MissingNumberTestCase.test()
     print(res)
 }
