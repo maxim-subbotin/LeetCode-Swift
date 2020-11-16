@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = MissingNumberTestCase.test()
+    let res = ClimbingStairsTestCase.test()
     print(res)
 }
