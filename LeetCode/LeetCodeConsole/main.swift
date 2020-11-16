@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = PascalsTriangleTestCase.test()
+    let res = ValidParenthesesTestCase.test()
     print(res)
 }
