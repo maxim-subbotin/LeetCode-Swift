@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = BestTimeBuyAndSellStockTestCase.test()
+    let res = MaximumSubarrayTestCase.test()
     print(res)
 }
