@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = MaximumSubarrayTestCase.test()
+    let res = UniquePathsTestCase.test()
     print(res)
 }
