@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = UniquePathsTestCase.test()
+    let res = ExcelSheetColumnTitleTestCase.test()
     print(res)
 }
