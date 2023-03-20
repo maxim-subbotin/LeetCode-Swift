@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = ExcelSheetColumnTitleTestCase.test()
+    let res = RectangleAreaTestCasse.test()
     print(res)
 }

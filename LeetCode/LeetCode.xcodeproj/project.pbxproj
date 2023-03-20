@@ -57,6 +57,8 @@
 		E518EE0F29C62503008DF1E5 /* EvaluateReversePolishNotationTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E518EE0E29C62503008DF1E5 /* EvaluateReversePolishNotationTestCase.swift */; };
 		E518EE1129C6378F008DF1E5 /* FractionToRecurringDecimalTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E518EE1029C6378F008DF1E5 /* FractionToRecurringDecimalTestCase.swift */; };
 		E518EE1329C6419C008DF1E5 /* ExcelSheetColumnTitleTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E518EE1229C6419C008DF1E5 /* ExcelSheetColumnTitleTestCase.swift */; };
+		E518EE1529C78C76008DF1E5 /* ExcelSheetColumnNumberTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E518EE1429C78C76008DF1E5 /* ExcelSheetColumnNumberTestCase.swift */; };
+		E518EE1729C7909A008DF1E5 /* FactorialTrailingZeroesTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E518EE1629C7909A008DF1E5 /* FactorialTrailingZeroesTestCase.swift */; };
 		E518F17E2550ADE70032EB87 /* FizzBuzzTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E518F17D2550ADE70032EB87 /* FizzBuzzTestCase.swift */; };
 		E51DF5DA254D471300DF1001 /* CountAndSayTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E51DF5D9254D471300DF1001 /* CountAndSayTestCase.swift */; };
 		E51DF5DD254D4C0100DF1001 /* LongestCommonPrefixTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E51DF5DC254D4C0100DF1001 /* LongestCommonPrefixTestCase.swift */; };
@@ -84,6 +86,8 @@
 		E5B9E3CD2564EA860016D02C /* MaximumSubarrayTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5B9E3CC2564EA860016D02C /* MaximumSubarrayTestCase.swift */; };
 		E5C26ECA29BF15360061BB39 /* AddTwoNumbersTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5C26EC929BF15360061BB39 /* AddTwoNumbersTestCase.swift */; };
 		E5C26ECC29BF314A0061BB39 /* MultiplyStringsTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5C26ECB29BF314A0061BB39 /* MultiplyStringsTestCase.swift */; };
+		E5C4BA7F29C905E0004688E1 /* HappyNumberTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5C4BA7E29C905E0004688E1 /* HappyNumberTestCase.swift */; };
+		E5C4BA8129C909B7004688E1 /* RectangleAreaTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5C4BA8029C909B7004688E1 /* RectangleAreaTestCase.swift */; };
 		E5C82D3E29ACF966002102D9 /* ContainerMostWaterTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5C82D3D29ACF966002102D9 /* ContainerMostWaterTestCase.swift */; };
 		E5C82D4029AD653D002102D9 /* ThreeSumProblemTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5C82D3F29AD653D002102D9 /* ThreeSumProblemTestCase.swift */; };
 		E5C82D4229AD6DF9002102D9 /* ThreeSumClosestTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5C82D4129AD6DF9002102D9 /* ThreeSumClosestTestCase.swift */; };
@@ -186,6 +190,8 @@
 		E518EE0E29C62503008DF1E5 /* EvaluateReversePolishNotationTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EvaluateReversePolishNotationTestCase.swift; sourceTree = "<group>"; };
 		E518EE1029C6378F008DF1E5 /* FractionToRecurringDecimalTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FractionToRecurringDecimalTestCase.swift; sourceTree = "<group>"; };
 		E518EE1229C6419C008DF1E5 /* ExcelSheetColumnTitleTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExcelSheetColumnTitleTestCase.swift; sourceTree = "<group>"; };
+		E518EE1429C78C76008DF1E5 /* ExcelSheetColumnNumberTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExcelSheetColumnNumberTestCase.swift; sourceTree = "<group>"; };
+		E518EE1629C7909A008DF1E5 /* FactorialTrailingZeroesTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FactorialTrailingZeroesTestCase.swift; sourceTree = "<group>"; };
 		E518F17D2550ADE70032EB87 /* FizzBuzzTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FizzBuzzTestCase.swift; sourceTree = "<group>"; };
 		E51DF5D9254D471300DF1001 /* CountAndSayTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountAndSayTestCase.swift; sourceTree = "<group>"; };
 		E51DF5DC254D4C0100DF1001 /* LongestCommonPrefixTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestCommonPrefixTestCase.swift; sourceTree = "<group>"; };
@@ -213,6 +219,8 @@
 		E5B9E3CC2564EA860016D02C /* MaximumSubarrayTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumSubarrayTestCase.swift; sourceTree = "<group>"; };
 		E5C26EC929BF15360061BB39 /* AddTwoNumbersTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddTwoNumbersTestCase.swift; sourceTree = "<group>"; };
 		E5C26ECB29BF314A0061BB39 /* MultiplyStringsTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultiplyStringsTestCase.swift; sourceTree = "<group>"; };
+		E5C4BA7E29C905E0004688E1 /* HappyNumberTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HappyNumberTestCase.swift; sourceTree = "<group>"; };
+		E5C4BA8029C909B7004688E1 /* RectangleAreaTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RectangleAreaTestCase.swift; sourceTree = "<group>"; };
 		E5C82D3D29ACF966002102D9 /* ContainerMostWaterTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContainerMostWaterTestCase.swift; sourceTree = "<group>"; };
 		E5C82D3F29AD653D002102D9 /* ThreeSumProblemTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreeSumProblemTestCase.swift; sourceTree = "<group>"; };
 		E5C82D4129AD6DF9002102D9 /* ThreeSumClosestTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreeSumClosestTestCase.swift; sourceTree = "<group>"; };
@@ -489,6 +497,10 @@
 				E518EE0E29C62503008DF1E5 /* EvaluateReversePolishNotationTestCase.swift */,
 				E518EE1029C6378F008DF1E5 /* FractionToRecurringDecimalTestCase.swift */,
 				E518EE1229C6419C008DF1E5 /* ExcelSheetColumnTitleTestCase.swift */,
+				E518EE1429C78C76008DF1E5 /* ExcelSheetColumnNumberTestCase.swift */,
+				E518EE1629C7909A008DF1E5 /* FactorialTrailingZeroesTestCase.swift */,
+				E5C4BA7E29C905E0004688E1 /* HappyNumberTestCase.swift */,
+				E5C4BA8029C909B7004688E1 /* RectangleAreaTestCase.swift */,
 			);
 			path = Math;
 			sourceTree = "<group>";
@@ -660,12 +672,14 @@
 				D661DE1E2543263200138B8A /* SquaresSortedArrayTestCase.swift in Sources */,
 				D60B482F25499AA40064BA37 /* ValidSudokuTestCase.swift in Sources */,
 				E5565FE1254D866F00BAE690 /* ListNode.swift in Sources */,
+				E5C4BA7F29C905E0004688E1 /* HappyNumberTestCase.swift in Sources */,
 				D699EA0B2546CFC3005F79A0 /* ValidMountainTestCase.swift in Sources */,
 				E591DB6C25631D9800E209B3 /* BestTimeBuyAndSellStockTestCase.swift in Sources */,
 				E50B31C729ABFEEA009EA532 /* SquaresOfASortedArrayTestCase.swift in Sources */,
 				D699EA002546BAC1005F79A0 /* RemoveDuplicatedFromSortedArrayTestCase.swift in Sources */,
 				E518EE0929C61A0F008DF1E5 /* GrayCodeTestCase.swift in Sources */,
 				E5306E3825588D1C00EE8E75 /* ValidateBinarySearchTreeTestCase.swift in Sources */,
+				E5C4BA8129C909B7004688E1 /* RectangleAreaTestCase.swift in Sources */,
 				E518EE0529C60BF2008DF1E5 /* SqrtTestCase.swift in Sources */,
 				E518EE0729C61427008DF1E5 /* AddBinaryTestCase.swift in Sources */,
 				D6280A0425481EF2006F67B1 /* FindDisappearedNumbersTestCase.swift in Sources */,
@@ -674,10 +688,12 @@
 				E591DB6825631A1800E209B3 /* ClimbingStairsTestCase.swift in Sources */,
 				D62809FE2547FE46006F67B1 /* HeightCheckerTestCase.swift in Sources */,
 				E518F17E2550ADE70032EB87 /* FizzBuzzTestCase.swift in Sources */,
+				E518EE1729C7909A008DF1E5 /* FactorialTrailingZeroesTestCase.swift in Sources */,
 				E5306E3B25588D7300EE8E75 /* BinaryTreeTestCase.swift in Sources */,
 				E5C26ECC29BF314A0061BB39 /* MultiplyStringsTestCase.swift in Sources */,
 				D60638E7254ABB370029C192 /* RotateImageTestCase.swift in Sources */,
 				E51DF5DA254D471300DF1001 /* CountAndSayTestCase.swift in Sources */,
+				E518EE1529C78C76008DF1E5 /* ExcelSheetColumnNumberTestCase.swift in Sources */,
 				E518EE0D29C621A1008DF1E5 /* MaxPointsOnLineTestCase.swift in Sources */,
 				E518EE1329C6419C008DF1E5 /* ExcelSheetColumnTitleTestCase.swift in Sources */,
 				E565342029C0F2B20015A7B0 /* UniquePathsTestCase.swift in Sources */,
