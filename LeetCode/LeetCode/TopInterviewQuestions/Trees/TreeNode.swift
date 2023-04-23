@@ -48,4 +48,15 @@ public class TreeNode {
             order(node: root!.right, array: &array)
         }
     }
+    
+    func LTR() -> [Int] {
+        LTR(root: self)
+    }
+    
+    private func LTR(root: TreeNode) -> [Int] {
+        let l = root.left != nil ? LTR(root: root.left!) : [Int]()
+        let t = root.val
+        let r = root.right != nil ? LTR(root: root.right!) : [Int]()
+        return l + [t] + r
+    }
 }
