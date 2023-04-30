@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = RectangleAreaTestCasse.test()
+    let res = IsSubsequenceTestCase.test()
     print(res)
 }
