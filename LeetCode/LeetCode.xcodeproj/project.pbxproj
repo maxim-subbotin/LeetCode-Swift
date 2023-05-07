@@ -50,6 +50,7 @@
 		E50B31C729ABFEEA009EA532 /* SquaresOfASortedArrayTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E50B31C629ABFEEA009EA532 /* SquaresOfASortedArrayTestCase.swift */; };
 		E50B31C929AC0949009EA532 /* HouseRobberTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E50B31C829AC0949009EA532 /* HouseRobberTestCase.swift */; };
 		E50B31CC29AC1587009EA532 /* BuildArrayFromPermutationTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E50B31CB29AC1587009EA532 /* BuildArrayFromPermutationTestCase.swift */; };
+		E50B503C2A06A57000779D56 /* ReplaceAllDigitsWithCharactersTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E50B503B2A06A57000779D56 /* ReplaceAllDigitsWithCharactersTestCase.swift */; };
 		E50C651A29F7054B0013B65C /* DiameterBinaryTreeTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E50C651929F7054B0013B65C /* DiameterBinaryTreeTestCase.swift */; };
 		E50C651C29F732E00013B65C /* SumLeftLeavesTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E50C651B29F732E00013B65C /* SumLeftLeavesTestCase.swift */; };
 		E5155CBF29BE7442008B321F /* DivideTwoIntegersTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5155CBE29BE7442008B321F /* DivideTwoIntegersTestCase.swift */; };
@@ -67,6 +68,7 @@
 		E518F17E2550ADE70032EB87 /* FizzBuzzTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E518F17D2550ADE70032EB87 /* FizzBuzzTestCase.swift */; };
 		E51DF5DA254D471300DF1001 /* CountAndSayTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E51DF5D9254D471300DF1001 /* CountAndSayTestCase.swift */; };
 		E51DF5DD254D4C0100DF1001 /* LongestCommonPrefixTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E51DF5DC254D4C0100DF1001 /* LongestCommonPrefixTestCase.swift */; };
+		E523B5882A00653900E8481E /* MergeTwoArraysSummingValuesTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E523B5872A00653900E8481E /* MergeTwoArraysSummingValuesTestCase.swift */; };
 		E526DF8129EDEB02004C1E8A /* MergeTwoBinaryTreesTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E526DF8029EDEB02004C1E8A /* MergeTwoBinaryTreesTestCase.swift */; };
 		E526DF8F29EEF17D004C1E8A /* IncreasingOrderSearchTreeTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E526DF8E29EEF17D004C1E8A /* IncreasingOrderSearchTreeTestCase.swift */; };
 		E52F0AAC2559EAFC00104807 /* BinaryTreeLevelOrderTraversalTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E52F0AAB2559EAFC00104807 /* BinaryTreeLevelOrderTraversalTestCase.swift */; };
@@ -84,6 +86,14 @@
 		E5565FE7254D8D3600BAE690 /* RemoveNthNodeFromEndTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5565FE6254D8D3600BAE690 /* RemoveNthNodeFromEndTestCase.swift */; };
 		E5565FEA254D95D000BAE690 /* ReverseLinkedListTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5565FE9254D95D000BAE690 /* ReverseLinkedListTestCase.swift */; };
 		E565342029C0F2B20015A7B0 /* UniquePathsTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E565341F29C0F2B20015A7B0 /* UniquePathsTestCase.swift */; };
+		E56823432A01B36900456D93 /* MaximumNumberWordsInSentencesTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E56823422A01B36900456D93 /* MaximumNumberWordsInSentencesTestCase.swift */; };
+		E56823452A01B5D900456D93 /* GoalParserInterpretationTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E56823442A01B5D900456D93 /* GoalParserInterpretationTestCase.swift */; };
+		E56823472A01B82E00456D93 /* SplitStringBalancedStringsTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E56823462A01B82E00456D93 /* SplitStringBalancedStringsTestCase.swift */; };
+		E56823492A01BA5800456D93 /* ShuffleStringTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E56823482A01BA5800456D93 /* ShuffleStringTestCase.swift */; };
+		E573925E29FFC32B00086019 /* CountNumberPairsWithAbsoluteDifferenceTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E573925D29FFC32B00086019 /* CountNumberPairsWithAbsoluteDifferenceTestCase.swift */; };
+		E573926229FFE28300086019 /* MaximumNumberBallsInBoxTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E573926129FFE28300086019 /* MaximumNumberBallsInBoxTestCase.swift */; };
+		E573926429FFE92B00086019 /* TwoOutOfThreeTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E573926329FFE92A00086019 /* TwoOutOfThreeTestCase.swift */; };
+		E573926B29FFF6DE00086019 /* UniqueNumberOccurrencesTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E573926A29FFF6DE00086019 /* UniqueNumberOccurrencesTestCase.swift */; };
 		E5883898254EB7AF005EAFF6 /* MergeTwoSortedListsTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5883897254EB7AF005EAFF6 /* MergeTwoSortedListsTestCase.swift */; };
 		E58A25F52560834800EC750F /* ReverseBitsTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E58A25F42560834800EC750F /* ReverseBitsTestCase.swift */; };
 		E591DB6125630F9900E209B3 /* ValidParenthesesTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E591DB6025630F9900E209B3 /* ValidParenthesesTestCase.swift */; };
@@ -98,9 +108,20 @@
 		E59D055929F4781600441AF7 /* BinaryTreePathsTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E59D055829F4781600441AF7 /* BinaryTreePathsTestCase.swift */; };
 		E59D055B29F47D2900441AF7 /* TwoSumIVTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E59D055A29F47D2900441AF7 /* TwoSumIVTestCase.swift */; };
 		E5A540BD29B00A6200B97AC3 /* LeftRightSumDiffTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5A540BC29B00A6200B97AC3 /* LeftRightSumDiffTestCase.swift */; };
+		E5B1D3422A043F7600948F6A /* CheckTwoStringArraysEquivalentTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5B1D3412A043F7600948F6A /* CheckTwoStringArraysEquivalentTestCase.swift */; };
+		E5B1D3442A0444E800948F6A /* TruncateSentenceTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5B1D3432A0444E800948F6A /* TruncateSentenceTestCase.swift */; };
+		E5B1D3462A0447D200948F6A /* MergeStringsAlternatelyTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5B1D3452A0447D200948F6A /* MergeStringsAlternatelyTestCase.swift */; };
+		E5B1D3482A044A5800948F6A /* MaximumNestingDepthParenthesesTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5B1D3472A044A5800948F6A /* MaximumNestingDepthParenthesesTestCase.swift */; };
+		E5B1D34A2A044ECF00948F6A /* CountAsterisksTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5B1D3492A044ECF00948F6A /* CountAsterisksTestCase.swift */; };
+		E5B1D34F2A05820200948F6A /* ToLowerCaseTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5B1D34E2A05820200948F6A /* ToLowerCaseTestCase.swift */; };
+		E5B1D3512A05858D00948F6A /* ReverseWordsInStringIIITestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5B1D3502A05858D00948F6A /* ReverseWordsInStringIIITestCase.swift */; };
 		E5B6E41029D43A0B0025B5EA /* JumpGameIITestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5B6E40F29D43A0B0025B5EA /* JumpGameIITestCase.swift */; };
 		E5B6E41229D467AC0025B5EA /* PermutationsTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5B6E41129D467AC0025B5EA /* PermutationsTestCase.swift */; };
 		E5B9E3CD2564EA860016D02C /* MaximumSubarrayTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5B9E3CC2564EA860016D02C /* MaximumSubarrayTestCase.swift */; };
+		E5C136DF2A07C71C00AB0A94 /* DecryptStringAlphabetIntegerMappingTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5C136DE2A07C71C00AB0A94 /* DecryptStringAlphabetIntegerMappingTestCase.swift */; };
+		E5C136E12A07CC6B00AB0A94 /* KeepMultiplyingFoundValuesTwoTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5C136E02A07CC6B00AB0A94 /* KeepMultiplyingFoundValuesTwoTestCase.swift */; };
+		E5C136E32A07CEC800AB0A94 /* XOfKindInDeckOfCardsTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5C136E22A07CEC800AB0A94 /* XOfKindInDeckOfCardsTestCase.swift */; };
+		E5C136E52A07D79E00AB0A94 /* NumberDifferentIntegersStringTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5C136E42A07D79E00AB0A94 /* NumberDifferentIntegersStringTestCase.swift */; };
 		E5C26ECA29BF15360061BB39 /* AddTwoNumbersTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5C26EC929BF15360061BB39 /* AddTwoNumbersTestCase.swift */; };
 		E5C26ECC29BF314A0061BB39 /* MultiplyStringsTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5C26ECB29BF314A0061BB39 /* MultiplyStringsTestCase.swift */; };
 		E5C4BA7F29C905E0004688E1 /* HappyNumberTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5C4BA7E29C905E0004688E1 /* HappyNumberTestCase.swift */; };
@@ -121,6 +142,9 @@
 		E5CB135C29AE81B500C63553 /* FourSumProblemTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5CB135B29AE81B500C63553 /* FourSumProblemTestCase.swift */; };
 		E5CB135E29AEB47F00C63553 /* MedianOfTwoArraysTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5CB135D29AEB47F00C63553 /* MedianOfTwoArraysTestCase.swift */; };
 		E5CB136029AEBAF200C63553 /* SearchInsertPositionTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5CB135F29AEBAF200C63553 /* SearchInsertPositionTestCase.swift */; };
+		E5CDA27C2A03038E000BCC85 /* CountItemsMatchingRuleTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5CDA27B2A03038E000BCC85 /* CountItemsMatchingRuleTestCase.swift */; };
+		E5CDA27E2A03064B000BCC85 /* CellsRangeExcelSheetTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5CDA27D2A03064B000BCC85 /* CellsRangeExcelSheetTestCase.swift */; };
+		E5CDA2802A030BEB000BCC85 /* SortingSentenceTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5CDA27F2A030BEB000BCC85 /* SortingSentenceTestCase.swift */; };
 		E5CE01D429D588BF00E175CD /* GroupAnagramsTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5CE01D329D588BF00E175CD /* GroupAnagramsTestCase.swift */; };
 		E5CE01D629D58E5C00E175CD /* SpiralMatrixTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5CE01D529D58E5C00E175CD /* SpiralMatrixTestCase.swift */; };
 		E5CE01D829D5BE0500E175CD /* JumpGameTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5CE01D729D5BE0500E175CD /* JumpGameTestCase.swift */; };
@@ -270,6 +294,7 @@
 		E50B31C629ABFEEA009EA532 /* SquaresOfASortedArrayTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SquaresOfASortedArrayTestCase.swift; sourceTree = "<group>"; };
 		E50B31C829AC0949009EA532 /* HouseRobberTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HouseRobberTestCase.swift; sourceTree = "<group>"; };
 		E50B31CB29AC1587009EA532 /* BuildArrayFromPermutationTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuildArrayFromPermutationTestCase.swift; sourceTree = "<group>"; };
+		E50B503B2A06A57000779D56 /* ReplaceAllDigitsWithCharactersTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReplaceAllDigitsWithCharactersTestCase.swift; sourceTree = "<group>"; };
 		E50C651929F7054B0013B65C /* DiameterBinaryTreeTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiameterBinaryTreeTestCase.swift; sourceTree = "<group>"; };
 		E50C651B29F732E00013B65C /* SumLeftLeavesTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumLeftLeavesTestCase.swift; sourceTree = "<group>"; };
 		E5155CBE29BE7442008B321F /* DivideTwoIntegersTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DivideTwoIntegersTestCase.swift; sourceTree = "<group>"; };
@@ -287,6 +312,7 @@
 		E518F17D2550ADE70032EB87 /* FizzBuzzTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FizzBuzzTestCase.swift; sourceTree = "<group>"; };
 		E51DF5D9254D471300DF1001 /* CountAndSayTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountAndSayTestCase.swift; sourceTree = "<group>"; };
 		E51DF5DC254D4C0100DF1001 /* LongestCommonPrefixTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestCommonPrefixTestCase.swift; sourceTree = "<group>"; };
+		E523B5872A00653900E8481E /* MergeTwoArraysSummingValuesTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeTwoArraysSummingValuesTestCase.swift; sourceTree = "<group>"; };
 		E526DF8029EDEB02004C1E8A /* MergeTwoBinaryTreesTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeTwoBinaryTreesTestCase.swift; sourceTree = "<group>"; };
 		E526DF8E29EEF17D004C1E8A /* IncreasingOrderSearchTreeTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IncreasingOrderSearchTreeTestCase.swift; sourceTree = "<group>"; };
 		E52F0AAB2559EAFC00104807 /* BinaryTreeLevelOrderTraversalTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryTreeLevelOrderTraversalTestCase.swift; sourceTree = "<group>"; };
@@ -304,6 +330,14 @@
 		E5565FE6254D8D3600BAE690 /* RemoveNthNodeFromEndTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveNthNodeFromEndTestCase.swift; sourceTree = "<group>"; };
 		E5565FE9254D95D000BAE690 /* ReverseLinkedListTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseLinkedListTestCase.swift; sourceTree = "<group>"; };
 		E565341F29C0F2B20015A7B0 /* UniquePathsTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniquePathsTestCase.swift; sourceTree = "<group>"; };
+		E56823422A01B36900456D93 /* MaximumNumberWordsInSentencesTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumNumberWordsInSentencesTestCase.swift; sourceTree = "<group>"; };
+		E56823442A01B5D900456D93 /* GoalParserInterpretationTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoalParserInterpretationTestCase.swift; sourceTree = "<group>"; };
+		E56823462A01B82E00456D93 /* SplitStringBalancedStringsTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplitStringBalancedStringsTestCase.swift; sourceTree = "<group>"; };
+		E56823482A01BA5800456D93 /* ShuffleStringTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShuffleStringTestCase.swift; sourceTree = "<group>"; };
+		E573925D29FFC32B00086019 /* CountNumberPairsWithAbsoluteDifferenceTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountNumberPairsWithAbsoluteDifferenceTestCase.swift; sourceTree = "<group>"; };
+		E573926129FFE28300086019 /* MaximumNumberBallsInBoxTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumNumberBallsInBoxTestCase.swift; sourceTree = "<group>"; };
+		E573926329FFE92A00086019 /* TwoOutOfThreeTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoOutOfThreeTestCase.swift; sourceTree = "<group>"; };
+		E573926A29FFF6DE00086019 /* UniqueNumberOccurrencesTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniqueNumberOccurrencesTestCase.swift; sourceTree = "<group>"; };
 		E5883897254EB7AF005EAFF6 /* MergeTwoSortedListsTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeTwoSortedListsTestCase.swift; sourceTree = "<group>"; };
 		E58A25F42560834800EC750F /* ReverseBitsTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseBitsTestCase.swift; sourceTree = "<group>"; };
 		E591DB6025630F9900E209B3 /* ValidParenthesesTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidParenthesesTestCase.swift; sourceTree = "<group>"; };
@@ -318,9 +352,20 @@
 		E59D055829F4781600441AF7 /* BinaryTreePathsTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryTreePathsTestCase.swift; sourceTree = "<group>"; };
 		E59D055A29F47D2900441AF7 /* TwoSumIVTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoSumIVTestCase.swift; sourceTree = "<group>"; };
 		E5A540BC29B00A6200B97AC3 /* LeftRightSumDiffTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeftRightSumDiffTestCase.swift; sourceTree = "<group>"; };
+		E5B1D3412A043F7600948F6A /* CheckTwoStringArraysEquivalentTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckTwoStringArraysEquivalentTestCase.swift; sourceTree = "<group>"; };
+		E5B1D3432A0444E800948F6A /* TruncateSentenceTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TruncateSentenceTestCase.swift; sourceTree = "<group>"; };
+		E5B1D3452A0447D200948F6A /* MergeStringsAlternatelyTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeStringsAlternatelyTestCase.swift; sourceTree = "<group>"; };
+		E5B1D3472A044A5800948F6A /* MaximumNestingDepthParenthesesTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumNestingDepthParenthesesTestCase.swift; sourceTree = "<group>"; };
+		E5B1D3492A044ECF00948F6A /* CountAsterisksTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountAsterisksTestCase.swift; sourceTree = "<group>"; };
+		E5B1D34E2A05820200948F6A /* ToLowerCaseTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToLowerCaseTestCase.swift; sourceTree = "<group>"; };
+		E5B1D3502A05858D00948F6A /* ReverseWordsInStringIIITestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseWordsInStringIIITestCase.swift; sourceTree = "<group>"; };
 		E5B6E40F29D43A0B0025B5EA /* JumpGameIITestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JumpGameIITestCase.swift; sourceTree = "<group>"; };
 		E5B6E41129D467AC0025B5EA /* PermutationsTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PermutationsTestCase.swift; sourceTree = "<group>"; };
 		E5B9E3CC2564EA860016D02C /* MaximumSubarrayTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumSubarrayTestCase.swift; sourceTree = "<group>"; };
+		E5C136DE2A07C71C00AB0A94 /* DecryptStringAlphabetIntegerMappingTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DecryptStringAlphabetIntegerMappingTestCase.swift; sourceTree = "<group>"; };
+		E5C136E02A07CC6B00AB0A94 /* KeepMultiplyingFoundValuesTwoTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeepMultiplyingFoundValuesTwoTestCase.swift; sourceTree = "<group>"; };
+		E5C136E22A07CEC800AB0A94 /* XOfKindInDeckOfCardsTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XOfKindInDeckOfCardsTestCase.swift; sourceTree = "<group>"; };
+		E5C136E42A07D79E00AB0A94 /* NumberDifferentIntegersStringTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberDifferentIntegersStringTestCase.swift; sourceTree = "<group>"; };
 		E5C26EC929BF15360061BB39 /* AddTwoNumbersTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddTwoNumbersTestCase.swift; sourceTree = "<group>"; };
 		E5C26ECB29BF314A0061BB39 /* MultiplyStringsTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultiplyStringsTestCase.swift; sourceTree = "<group>"; };
 		E5C4BA7E29C905E0004688E1 /* HappyNumberTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HappyNumberTestCase.swift; sourceTree = "<group>"; };
@@ -341,6 +386,9 @@
 		E5CB135B29AE81B500C63553 /* FourSumProblemTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourSumProblemTestCase.swift; sourceTree = "<group>"; };
 		E5CB135D29AEB47F00C63553 /* MedianOfTwoArraysTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MedianOfTwoArraysTestCase.swift; sourceTree = "<group>"; };
 		E5CB135F29AEBAF200C63553 /* SearchInsertPositionTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchInsertPositionTestCase.swift; sourceTree = "<group>"; };
+		E5CDA27B2A03038E000BCC85 /* CountItemsMatchingRuleTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountItemsMatchingRuleTestCase.swift; sourceTree = "<group>"; };
+		E5CDA27D2A03064B000BCC85 /* CellsRangeExcelSheetTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CellsRangeExcelSheetTestCase.swift; sourceTree = "<group>"; };
+		E5CDA27F2A030BEB000BCC85 /* SortingSentenceTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortingSentenceTestCase.swift; sourceTree = "<group>"; };
 		E5CE01D329D588BF00E175CD /* GroupAnagramsTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupAnagramsTestCase.swift; sourceTree = "<group>"; };
 		E5CE01D529D58E5C00E175CD /* SpiralMatrixTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpiralMatrixTestCase.swift; sourceTree = "<group>"; };
 		E5CE01D729D5BE0500E175CD /* JumpGameTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JumpGameTestCase.swift; sourceTree = "<group>"; };
@@ -512,6 +560,7 @@
 		D66CF7D32542F63D00E9A772 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				E56823412A01B34A00456D93 /* Strings */,
 				E5E5D85429FD45050082A3A9 /* DynamicProgramming */,
 				E5D0C42629EC7C7D003B50CF /* Trees */,
 				E5DFA63F29DE0F580024A4D7 /* HashTables */,
@@ -664,6 +713,29 @@
 			path = LinkedList;
 			sourceTree = "<group>";
 		};
+		E56823412A01B34A00456D93 /* Strings */ = {
+			isa = PBXGroup;
+			children = (
+				E56823422A01B36900456D93 /* MaximumNumberWordsInSentencesTestCase.swift */,
+				E56823442A01B5D900456D93 /* GoalParserInterpretationTestCase.swift */,
+				E56823462A01B82E00456D93 /* SplitStringBalancedStringsTestCase.swift */,
+				E56823482A01BA5800456D93 /* ShuffleStringTestCase.swift */,
+				E5CDA27B2A03038E000BCC85 /* CountItemsMatchingRuleTestCase.swift */,
+				E5CDA27D2A03064B000BCC85 /* CellsRangeExcelSheetTestCase.swift */,
+				E5CDA27F2A030BEB000BCC85 /* SortingSentenceTestCase.swift */,
+				E5B1D3412A043F7600948F6A /* CheckTwoStringArraysEquivalentTestCase.swift */,
+				E5B1D3432A0444E800948F6A /* TruncateSentenceTestCase.swift */,
+				E5B1D3452A0447D200948F6A /* MergeStringsAlternatelyTestCase.swift */,
+				E5B1D3472A044A5800948F6A /* MaximumNestingDepthParenthesesTestCase.swift */,
+				E5B1D3492A044ECF00948F6A /* CountAsterisksTestCase.swift */,
+				E5B1D34E2A05820200948F6A /* ToLowerCaseTestCase.swift */,
+				E5B1D3502A05858D00948F6A /* ReverseWordsInStringIIITestCase.swift */,
+				E50B503B2A06A57000779D56 /* ReplaceAllDigitsWithCharactersTestCase.swift */,
+				E5C136DE2A07C71C00AB0A94 /* DecryptStringAlphabetIntegerMappingTestCase.swift */,
+			);
+			path = Strings;
+			sourceTree = "<group>";
+		};
 		E591DB66256319FD00E209B3 /* DynamicProgramming */ = {
 			isa = PBXGroup;
 			children = (
@@ -804,6 +876,14 @@
 				E5D0C42029EB1F97003B50CF /* DivideArrayIntoEqualPairsTestCase.swift */,
 				E5D0C42229EBE4F7003B50CF /* RemoveLetterEqualizeFrequencyTestCase.swift */,
 				E5D0C42429EBF018003B50CF /* BuddyStringsTestCase.swift */,
+				E573925D29FFC32B00086019 /* CountNumberPairsWithAbsoluteDifferenceTestCase.swift */,
+				E573926129FFE28300086019 /* MaximumNumberBallsInBoxTestCase.swift */,
+				E573926329FFE92A00086019 /* TwoOutOfThreeTestCase.swift */,
+				E573926A29FFF6DE00086019 /* UniqueNumberOccurrencesTestCase.swift */,
+				E523B5872A00653900E8481E /* MergeTwoArraysSummingValuesTestCase.swift */,
+				E5C136E02A07CC6B00AB0A94 /* KeepMultiplyingFoundValuesTwoTestCase.swift */,
+				E5C136E22A07CEC800AB0A94 /* XOfKindInDeckOfCardsTestCase.swift */,
+				E5C136E42A07D79E00AB0A94 /* NumberDifferentIntegersStringTestCase.swift */,
 			);
 			path = HashTables;
 			sourceTree = "<group>";
@@ -944,9 +1024,11 @@
 				D69B7067254479BE00424DBB /* DuplicateZerosTestCase.swift in Sources */,
 				E5565FEA254D95D000BAE690 /* ReverseLinkedListTestCase.swift in Sources */,
 				E5E5D86029FE9EAD0082A3A9 /* GetMaximumGeneratedArrayTestCase.swift in Sources */,
+				E5C136E32A07CEC800AB0A94 /* XOfKindInDeckOfCardsTestCase.swift in Sources */,
 				E5DF7AE12545B2C600B51009 /* RemoveElementTestCase.swift in Sources */,
 				E5F22644254F55F90076A1B0 /* LinkedListCycleTestCase.swift in Sources */,
 				D6280A0125480122006F67B1 /* ThirdMaximumNumberTestCase.swift in Sources */,
+				E573926229FFE28300086019 /* MaximumNumberBallsInBoxTestCase.swift in Sources */,
 				E5C4BA8329C90E55004688E1 /* BasicCalculatorTestCase.swift in Sources */,
 				E5C6ECBC29CF49A000E32983 /* SuperUglyNumberTestCase.swift in Sources */,
 				E50525902561CFBA00FF1059 /* PascalsTriangleTestCase.swift in Sources */,
@@ -960,8 +1042,12 @@
 				E50B31CC29AC1587009EA532 /* BuildArrayFromPermutationTestCase.swift in Sources */,
 				E58A25F52560834800EC750F /* ReverseBitsTestCase.swift in Sources */,
 				D6B5C40E255160A600285672 /* CountPrimesTestCase.swift in Sources */,
+				E5B1D34F2A05820200948F6A /* ToLowerCaseTestCase.swift in Sources */,
+				E56823472A01B82E00456D93 /* SplitStringBalancedStringsTestCase.swift in Sources */,
 				E5CE01EC29D84A5500E175CD /*  LongestPalindromicSubstringTestCase.swift in Sources */,
 				E5D0C41F29EB1D5E003B50CF /* FirstLetterAppearTwiceTestCase.swift in Sources */,
+				E56823432A01B36900456D93 /* MaximumNumberWordsInSentencesTestCase.swift in Sources */,
+				E5B1D3482A044A5800948F6A /* MaximumNestingDepthParenthesesTestCase.swift in Sources */,
 				E5D5AFCA29D35F5A0098B3DA /* TrappingRainWaterTestCase.swift in Sources */,
 				D66CF7F62542F7FD00E9A772 /* MaxConsecutiveOnesTestCase.swift in Sources */,
 				E5CB135E29AEB47F00C63553 /* MedianOfTwoArraysTestCase.swift in Sources */,
@@ -969,7 +1055,9 @@
 				D661DE1A25431F1500138B8A /* FindEvenNumbersTestCase.swift in Sources */,
 				D661DE1E2543263200138B8A /* SquaresSortedArrayTestCase.swift in Sources */,
 				E5E5D86229FEA52B0082A3A9 /* IsSubsequenceTestCase.swift in Sources */,
+				E5CDA2802A030BEB000BCC85 /* SortingSentenceTestCase.swift in Sources */,
 				D60B482F25499AA40064BA37 /* ValidSudokuTestCase.swift in Sources */,
+				E5C136E52A07D79E00AB0A94 /* NumberDifferentIntegersStringTestCase.swift in Sources */,
 				E5565FE1254D866F00BAE690 /* ListNode.swift in Sources */,
 				E5C4BA7F29C905E0004688E1 /* HappyNumberTestCase.swift in Sources */,
 				E50C651C29F732E00013B65C /* SumLeftLeavesTestCase.swift in Sources */,
@@ -982,6 +1070,7 @@
 				E518EE0929C61A0F008DF1E5 /* GrayCodeTestCase.swift in Sources */,
 				E5306E3825588D1C00EE8E75 /* ValidateBinarySearchTreeTestCase.swift in Sources */,
 				E5E5D7E229F7B7680082A3A9 /* CousinsBinaryTreeTestCase.swift in Sources */,
+				E5B1D3512A05858D00948F6A /* ReverseWordsInStringIIITestCase.swift in Sources */,
 				E5E5D81B29FB16850082A3A9 /* SecondMinimumNodeTestCase.swift in Sources */,
 				E5C4BA8129C909B7004688E1 /* RectangleAreaTestCase.swift in Sources */,
 				E5EFE35429F5E21B00B852E0 /* MinimumDistanceBetweenNodesTestCase.swift in Sources */,
@@ -992,8 +1081,10 @@
 				D60638F0254AFD300029C192 /* ReverseIntegerTestCase.swift in Sources */,
 				E5306E35255886C800EE8E75 /* MaximumDepthBinaryTreeTestCase.swift in Sources */,
 				E5C617FE29CA259300AB5C93 /* PowerOfTwoTestCase.swift in Sources */,
+				E5B1D34A2A044ECF00948F6A /* CountAsterisksTestCase.swift in Sources */,
 				E506035C29E606530039AC48 /* RingsAndRodsTestCase.swift in Sources */,
 				E591DB6825631A1800E209B3 /* ClimbingStairsTestCase.swift in Sources */,
+				E5B1D3422A043F7600948F6A /* CheckTwoStringArraysEquivalentTestCase.swift in Sources */,
 				E5C6ECC229D0A3B700E32983 /* CombinationSumTestCase.swift in Sources */,
 				E5E5D85E29FE99FB0082A3A9 /* PascalsTriangleIITestCase.swift in Sources */,
 				D62809FE2547FE46006F67B1 /* HeightCheckerTestCase.swift in Sources */,
@@ -1028,11 +1119,13 @@
 				E5C6ECC029D0658700E32983 /* PowerOfFourTestCase.swift in Sources */,
 				E5E5D85629FD45950082A3A9 /* CountingBitsTestCase.swift in Sources */,
 				E59D055129F4228200441AF7 /* BinaryTreePostorderTraversalTestCase.swift in Sources */,
+				E5B1D3462A0447D200948F6A /* MergeStringsAlternatelyTestCase.swift in Sources */,
 				E5E5D7F029F87FD50082A3A9 /* PathSumTestCase.swift in Sources */,
 				D60B4822254951230064BA37 /* IntersectionOfTwoArraysV2TestCase.swift in Sources */,
 				E5DFA64129DE0F7B0024A4D7 /* MajorityElementTestCase.swift in Sources */,
 				E50C651A29F7054B0013B65C /* DiameterBinaryTreeTestCase.swift in Sources */,
 				E5E5D80D29F96B7B0082A3A9 /* SubtreeAnotherTreeTestCase.swift in Sources */,
+				E5CDA27E2A03064B000BCC85 /* CellsRangeExcelSheetTestCase.swift in Sources */,
 				E59D055929F4781600441AF7 /* BinaryTreePathsTestCase.swift in Sources */,
 				E5D0C42529EBF018003B50CF /* BuddyStringsTestCase.swift in Sources */,
 				E59D055529F42E4200441AF7 /* BinaryTreePreorderTraversalTestCase.swift in Sources */,
@@ -1040,12 +1133,14 @@
 				E5D0C41829E89AAE003B50CF /* MergeSimilarItemsTestCase.swift in Sources */,
 				E5A540BD29B00A6200B97AC3 /* LeftRightSumDiffTestCase.swift in Sources */,
 				D6B145AF254C3D990062720C /* StrStrTestCase.swift in Sources */,
+				E5C136E12A07CC6B00AB0A94 /* KeepMultiplyingFoundValuesTwoTestCase.swift in Sources */,
 				E5C6ECB829CE425F00E32983 /* PerfectSquaresTestCase.swift in Sources */,
 				D6CC8722254BED7D005D897D /* ValidAnagramTestCase.swift in Sources */,
 				D66CF7F12542F6B100E9A772 /* TestCase.swift in Sources */,
 				E5E9FBC629CE198D00CE6000 /* IntegerToEnglishWordsTestCase.swift in Sources */,
 				D60B4825254958E30064BA37 /* PlusOneTestCase.swift in Sources */,
 				E5D26F76255C7E7400BBFCBD /* MinStackTestCase.swift in Sources */,
+				E5C136DF2A07C71C00AB0A94 /* DecryptStringAlphabetIntegerMappingTestCase.swift in Sources */,
 				E526DF8F29EEF17D004C1E8A /* IncreasingOrderSearchTreeTestCase.swift in Sources */,
 				E5C6180029CA28D500AB5C93 /* NumberOfDigitOneTestCase.swift in Sources */,
 				E50B31C929AC0949009EA532 /* HouseRobberTestCase.swift in Sources */,
@@ -1056,21 +1151,25 @@
 				E5E9FBC229CCE4A200CE6000 /* UglyNumberTestCase.swift in Sources */,
 				E5D26F72255C7C7C00BBFCBD /* ShuffleArrayTestCase.swift in Sources */,
 				E5D0C41029E7DCD2003B50CF /* IncreasingDecreasingStringTestCase.swift in Sources */,
+				E573926429FFE92B00086019 /* TwoOutOfThreeTestCase.swift in Sources */,
 				E5F22641254F4E130076A1B0 /* PalindromeLinkedListTestCase.swift in Sources */,
 				E5D0C40929E6DE6C003B50CF /* DestinationCityTestCase.swift in Sources */,
 				E526DF8129EDEB02004C1E8A /* MergeTwoBinaryTreesTestCase.swift in Sources */,
 				E5DA48D629F08FA4006E199F /* InvertBinaryTreeTestCase.swift in Sources */,
+				E5CDA27C2A03038E000BCC85 /* CountItemsMatchingRuleTestCase.swift in Sources */,
 				E593B933255DD79D00326B12 /* HammingDistanceTestCase.swift in Sources */,
 				E54F860B29DCC1550064E184 /* WordBreakIITestCase.swift in Sources */,
 				D60B482C25497ED50064BA37 /* TwoSumTestCase.swift in Sources */,
 				D699EA162547131F005F79A0 /* MoveZeroesTestCase.swift in Sources */,
 				E5C6ECBA29CF465500E32983 /* NimGameTestCase.swift in Sources */,
 				E5E5D85829FD49CA0082A3A9 /* FibonacciNumberTestCase.swift in Sources */,
+				E56823452A01B5D900456D93 /* GoalParserInterpretationTestCase.swift in Sources */,
 				E5E5D85329FC50890082A3A9 /* NTreePostorderTraversalTestCase.swift in Sources */,
 				E5F22648254F5AF40076A1B0 /* FirstBadVersionTestCase.swift in Sources */,
 				E5DFA64F29E2E22E0024A4D7 /* DecodeTheMessageTestCase.swift in Sources */,
 				E5E5D81929FB11310082A3A9 /* MinimumDepthBinaryTreeTestCase.swift in Sources */,
 				E5B9E3CD2564EA860016D02C /* MaximumSubarrayTestCase.swift in Sources */,
+				E5B1D3442A0444E800948F6A /* TruncateSentenceTestCase.swift in Sources */,
 				E5DFA65329E3610F0024A4D7 /* CheckSentenceIsPangramTestCase.swift in Sources */,
 				D699EA1925471D45005F79A0 /* SortArrayByParityTestCase.swift in Sources */,
 				E591DB6125630F9900E209B3 /* ValidParenthesesTestCase.swift in Sources */,
@@ -1089,16 +1188,21 @@
 				E5D5AFC829D352900098B3DA /* FirstMissingPositiveTestCase.swift in Sources */,
 				E5DFA64329DE18570024A4D7 /* IsomorphicStringsTestCase.swift in Sources */,
 				D6B145A6254BFC8D0062720C /* ValidPalindromeTestCase.swift in Sources */,
+				E56823492A01BA5800456D93 /* ShuffleStringTestCase.swift in Sources */,
+				E573926B29FFF6DE00086019 /* UniqueNumberOccurrencesTestCase.swift in Sources */,
 				E5B6E41229D467AC0025B5EA /* PermutationsTestCase.swift in Sources */,
 				E5EE9C0829DB758D00C7FA61 /* LetterCombinationsPhoneNumberTestCase.swift in Sources */,
 				E5346A9425549D380087373B /* RomanToIntegerTestCase.swift in Sources */,
 				E5EFE32E29F5576500B852E0 /* BinaryTreeTiltTestCase.swift in Sources */,
+				E523B5882A00653900E8481E /* MergeTwoArraysSummingValuesTestCase.swift in Sources */,
 				E5DFA64929E2D0D40024A4D7 /* JewelsAndStonesTestCase.swift in Sources */,
 				E5C26ECA29BF15360061BB39 /* AddTwoNumbersTestCase.swift in Sources */,
 				E5EFE33029F55F4800B852E0 /* SameTreeTestCase.swift in Sources */,
 				E5E5D7E429F7C0010082A3A9 /* FindModeInBSTTestCase.swift in Sources */,
 				E5DA48D229F05F0B006E199F /* EvaluateBooleanBinaryTreeTestCase.swift in Sources */,
+				E573925E29FFC32B00086019 /* CountNumberPairsWithAbsoluteDifferenceTestCase.swift in Sources */,
 				E5DFA64B29E2D3D50024A4D7 /* NumberOfGoodPairsTestCase.swift in Sources */,
+				E50B503C2A06A57000779D56 /* ReplaceAllDigitsWithCharactersTestCase.swift in Sources */,
 				E54F860729DC95C60064E184 /* WordBreakTestCase.swift in Sources */,
 				E5DA48DF29F1B4B1006E199F /* AverageOfLevelsBinaryTreeTestCase.swift in Sources */,
 				E5C82D4229AD6DF9002102D9 /* ThreeSumClosestTestCase.swift in Sources */,
@@ -1185,7 +1289,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 10.15;
+				MACOSX_DEPLOYMENT_TARGET = 13.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -1243,7 +1347,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 10.15;
+				MACOSX_DEPLOYMENT_TARGET = 13.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = macosx;
