@@ -30,4 +30,17 @@ public class ListNode {
         }
         return array
     }
+    
+    static func from(array: [Int]) -> ListNode {
+        if array.isEmpty {
+            return ListNode(0)
+        }
+        var node = ListNode(array[0])
+        var current = node
+        for i in 1..<array.count {
+            current.next = ListNode(array[i])
+            current = current.next!
+        }
+        return node
+    }
 }
