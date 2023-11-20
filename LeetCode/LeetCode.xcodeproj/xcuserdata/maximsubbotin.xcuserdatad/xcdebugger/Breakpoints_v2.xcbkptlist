@@ -1391,6 +1391,21 @@
                   endingLineNumber = "51"
                   offsetFromSymbolStart = "2397">
                </Location>
+               <Location
+                  uuid = "10AA49AE-0D90-4302-A8A5-4D8298BA094F - b472ad7ce491c850"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.ThreeSumProblemTestCase.threeSum(Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/Arrays/All/ThreeSumProblemTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "2475">
+               </Location>
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
@@ -2990,6 +3005,21 @@
                   endingLineNumber = "82"
                   offsetFromSymbolStart = "3286">
                </Location>
+               <Location
+                  uuid = "A2E6B3BB-3F6F-4B08-9D48-C9B97B351BB0 - 3cf6ebe6cfa2eba2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.BasicCalculatorTestCase.buildTree(s: Swift.String) -&gt; Swift.Optional&lt;LeetCode.BasicCalculatorTestCase.Node&gt;"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/Math/BasicCalculatorTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "3736">
+               </Location>
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
@@ -3596,6 +3626,21 @@
                   endingLineNumber = "28"
                   offsetFromSymbolStart = "257">
                </Location>
+               <Location
+                  uuid = "FFEEAD01-3697-4263-AD33-93D5B88E9448 - 1973126fb9575541"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.PermutationsTestCase.permute(Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/Arrays/PermutationsTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "274">
+               </Location>
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
@@ -4154,6 +4199,21 @@
                   endingLineNumber = "58"
                   offsetFromSymbolStart = "3119">
                </Location>
+               <Location
+                  uuid = "25D405AF-F520-43DA-82C0-C108C4B333A5 - 258490fd5dae141a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.InsertIntervalTestCase.insert(Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;, Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/Arrays/All/InsertIntervalTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "3311">
+               </Location>
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
@@ -4329,6 +4389,21 @@
                   endingLineNumber = "47"
                   offsetFromSymbolStart = "2066">
                </Location>
+               <Location
+                  uuid = "3494C2AB-58C6-462F-8B74-9A7C8CF93B08 - 863ba497db0e9227"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.WordBreakTestCase.wordBreak(Swift.String, Swift.Array&lt;Swift.String&gt;) -&gt; Swift.Bool"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/Arrays/All/WordBreakTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "2349">
+               </Location>
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
@@ -4407,6 +4482,21 @@
                   startingLineNumber = "45"
                   endingLineNumber = "45"
                   offsetFromSymbolStart = "2707">
+               </Location>
+               <Location
+                  uuid = "B0664F5B-2764-4DB2-ADF6-797227D33261 - 7315ffd55d38301b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.WordBreakIITestCase.wordBreak(Swift.String, Swift.Array&lt;Swift.String&gt;) -&gt; Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/Arrays/All/WordBreakIITestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "2966">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -5043,6 +5133,21 @@
                   startingLineNumber = "40"
                   endingLineNumber = "40"
                   offsetFromSymbolStart = "1030">
+               </Location>
+               <Location
+                  uuid = "94D19254-5064-4EA8-BEA9-45E64A369BFC - d61d726b1d2f8fcf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.SumOfUniqueElementsTestCase.sumOfUnique(Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/HashTables/SumOfUniqueElementsTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "1072">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -6138,6 +6243,21 @@
                   endingLineNumber = "27"
                   offsetFromSymbolStart = "155">
                </Location>
+               <Location
+                  uuid = "C4C9D6AC-8462-4BE9-9887-3B4289A4D719 - 1efb5a8d46329e10"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.DiameterBinaryTreeTestCase.diameterOfBinaryTree(Swift.Optional&lt;LeetCode.TreeNode&gt;) -&gt; Swift.Int"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/Trees/DiameterBinaryTreeTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "163">
+               </Location>
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
@@ -6678,6 +6798,21 @@
                   startingLineNumber = "46"
                   endingLineNumber = "46"
                   offsetFromSymbolStart = "907">
+               </Location>
+               <Location
+                  uuid = "6E1DC43B-5F69-433B-9CD4-34B7C98329EF - a9fcf91bfdc04d37"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.GetMaximumGeneratedArrayTestCase.getMaximumGenerated(Swift.Int) -&gt; Swift.Int"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/DynamicProgramming/GetMaximumGeneratedArrayTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "918">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -7765,6 +7900,3177 @@
             endingLineNumber = "39"
             landmarkName = "numDifferentIntegers(_:)"
             landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A9F74E80-FF53-429C-896D-192CDE532A5D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/HashTables/MostCommonWordTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "mostCommonWord(_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C2834E71-8FB4-485C-BDF7-29DE45E64176"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/HashTables/MostCommonWordTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "mostCommonWord(_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E2AD0C85-37FA-4BC9-B4E3-1C7BF2C0458A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/Trees/DeepestLeavesSumTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "deepestLeavesSum(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "94A3975F-0C0A-4BD2-9086-9285749296E0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/Trees/BinarySearchTreeToGreaterSumTreeTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "bstToGst(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "94A3975F-0C0A-4BD2-9086-9285749296E0 - b20fc1513ceabd42"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.BinarySearchTreeToGreaterSumTreeTestCase.bstToGst(Swift.Optional&lt;LeetCode.TreeNode&gt;) -&gt; Swift.Optional&lt;LeetCode.TreeNode&gt;"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/Trees/BinarySearchTreeToGreaterSumTreeTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "182">
+               </Location>
+               <Location
+                  uuid = "94A3975F-0C0A-4BD2-9086-9285749296E0 - b20fc1513ceabd42"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.BinarySearchTreeToGreaterSumTreeTestCase.bstToGst(Swift.Optional&lt;LeetCode.TreeNode&gt;) -&gt; Swift.Optional&lt;LeetCode.TreeNode&gt;"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/Trees/BinarySearchTreeToGreaterSumTreeTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "177">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9E2B0328-5EB0-46B7-BC62-6648D9CC3002"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/Trees/SumNodesEvenGrandparentTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "sumEvenGrandparent(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7A4E8D17-93D0-4983-BFE1-B74E731A730F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/Trees/CountNodesEqualAverageSubtreeTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "averageOfSubtree(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0E4EFCC2-7127-4913-9AFF-31C6E3E952B5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/Trees/CountNodesEqualAverageSubtreeTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "avg(node:total:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C2A46AFE-D7A8-4D0F-8B0D-B85F3076EB39"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/Trees/CountNodesEqualAverageSubtreeTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "avg(node:total:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C2BEDD2D-60E9-4481-A87B-4B2E5C7D8FAF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/Trees/CountNodesEqualAverageSubtreeTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "averageOfSubtree(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F949E758-E1A3-4737-82B8-CE8CE445E8F7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/Trees/ConstructBSTFromPreorderTraversalTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "bstFromPreorder(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "75FAF705-9763-4AAE-9B71-DFC0DDC6645E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/HashTables/FindDifferenceTwoArraysTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "findDifference(_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3D11E564-40E7-46E5-B2B1-283B9ACDDD9A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/LinkedLists/ConvertBinaryNumberInLinkedListToIntegerTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "test()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2E09D1A7-7C39-4724-A35E-B7496BECA494"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/LinkedLists/ConvertBinaryNumberInLinkedListToIntegerTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "getDecimalValue(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "714B6E8A-7D1A-4B77-A342-1CBB0D018820"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/LinkedLists/ConvertBinaryNumberInLinkedListToIntegerTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "getDecimalValue(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E037758D-D42F-4E81-A7D0-2C3569C84415"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/LinkedLists/ConvertBinaryNumberInLinkedListToIntegerTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "getDecimalValue(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E037758D-D42F-4E81-A7D0-2C3569C84415 - c1d7d62ffa76905"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static LeetCode.ConvertBinaryNumberInLinkedListToIntegerTestCase.test() -&gt; Swift.Bool"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/LinkedLists/ConvertBinaryNumberInLinkedListToIntegerTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "201">
+               </Location>
+               <Location
+                  uuid = "E037758D-D42F-4E81-A7D0-2C3569C84415 - 3540c40946724c31"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.ConvertBinaryNumberInLinkedListToIntegerTestCase.getDecimalValue(Swift.Optional&lt;LeetCode.ListNode&gt;) -&gt; Swift.Int"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/LinkedLists/ConvertBinaryNumberInLinkedListToIntegerTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "722">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6A737460-5279-49D3-B9CA-1609A7C1FAAE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/LinkedLists/MiddleLinkedListTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "middleNode(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4D02195F-0DCB-4FE5-9410-C952C871D3FC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/LinkedLists/MiddleLinkedListTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "middleNode(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "10110638-2C17-46AC-8D3F-73D32827FD64"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/LinkedLists/RemoveDuplicatesFromSortedListTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "deleteDuplicates(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F9041D93-D579-4254-B855-5E8FC3877A96"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/LinkedLists/RemoveDuplicatesFromSortedListTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "deleteDuplicates(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F9041D93-D579-4254-B855-5E8FC3877A96 - f9d7bad8effa4d3b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static LeetCode.RemoveDuplicatesFromSortedListTestCase.test() -&gt; Swift.Bool"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/LinkedLists/RemoveDuplicatesFromSortedListTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  uuid = "F9041D93-D579-4254-B855-5E8FC3877A96 - 45b5e656a3de84bb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.RemoveDuplicatesFromSortedListTestCase.deleteDuplicates(Swift.Optional&lt;LeetCode.ListNode&gt;) -&gt; Swift.Optional&lt;LeetCode.ListNode&gt;"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/LinkedLists/RemoveDuplicatesFromSortedListTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "1534">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "64CC1FB1-610C-4CB8-8FBD-94A80B1CD131"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/LinkedLists/RemoveDuplicatesFromSortedListTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "deleteDuplicates(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0A5D6DB8-16A0-421A-9284-E050D4A4A38A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/LinkedLists/RemoveLinkedListElementsTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "removeElements(_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "09A65CD8-D91E-470F-8300-FEED1BF35F0F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/LinkedLists/MergeNodesInBetweenZerosTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "mergeNodes(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1C57ADE0-A351-47F7-A39F-99C69244708E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/LinkedLists/MaximumTwinSumLinkedListTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "pairSum(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A392901F-BE35-4E12-9B77-E0A11CFFB139"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/LinkedLists/SpiralMatrixIVTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "spiralMatrix(_:_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A392901F-BE35-4E12-9B77-E0A11CFFB139 - a30e2ab1fb149f7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static LeetCode.SpiralMatrixIVTestCase.test() -&gt; Swift.Bool"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/LinkedLists/SpiralMatrixIVTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "46">
+               </Location>
+               <Location
+                  uuid = "A392901F-BE35-4E12-9B77-E0A11CFFB139 - 6840751f4fbe9733"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.SpiralMatrixIVTestCase.spiralMatrix(Swift.Int, Swift.Int, Swift.Optional&lt;LeetCode.ListNode&gt;) -&gt; Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/LinkedLists/SpiralMatrixIVTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "1883">
+               </Location>
+               <Location
+                  uuid = "A392901F-BE35-4E12-9B77-E0A11CFFB139 - 6840751f4fbe9733"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.SpiralMatrixIVTestCase.spiralMatrix(Swift.Int, Swift.Int, Swift.Optional&lt;LeetCode.ListNode&gt;) -&gt; Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/LinkedLists/SpiralMatrixIVTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "1884">
+               </Location>
+               <Location
+                  uuid = "A392901F-BE35-4E12-9B77-E0A11CFFB139 - 6840751f4fbe9733"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.SpiralMatrixIVTestCase.spiralMatrix(Swift.Int, Swift.Int, Swift.Optional&lt;LeetCode.ListNode&gt;) -&gt; Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/LinkedLists/SpiralMatrixIVTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "1846">
+               </Location>
+               <Location
+                  uuid = "A392901F-BE35-4E12-9B77-E0A11CFFB139 - 6840751f4fbe9733"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.SpiralMatrixIVTestCase.spiralMatrix(Swift.Int, Swift.Int, Swift.Optional&lt;LeetCode.ListNode&gt;) -&gt; Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/LinkedLists/SpiralMatrixIVTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "1845">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6E251307-BA1E-4B4F-863A-81E17891D5C9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/LinkedLists/SpiralMatrixIVTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "spiralMatrix(_:_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AC975C0D-F62C-4D2E-B73C-CA8DA5FEF6C0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/LinkedLists/SpiralMatrixIVTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "spiralMatrix(_:_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "488A86E7-37E6-4286-888F-F2957801B8C8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/LinkedLists/SpiralMatrixIVTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "spiralMatrix(_:_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3D0EC53A-DDF8-4BB6-9F68-5616BA0D2C1E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/LinkedLists/SpiralMatrixIVTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "spiralMatrix(_:_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B3C2BF29-2D0E-435E-8EE6-35D0E3A2B6EA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/LinkedLists/SpiralMatrixIVTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "spiralMatrix(_:_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C1C0799E-E2CA-46E3-AAD1-FCC736CB6BE3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/LinkedLists/SpiralMatrixIVTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "spiralMatrix(_:_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5C1FE433-F641-4EB8-BB3C-CA73BEB179D5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/LinkedLists/MergeBetweenLinkedListsTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "mergeInBetween(_:_:_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5C1FE433-F641-4EB8-BB3C-CA73BEB179D5 - efae60778a5186ed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.MergeBetweenLinkedListsTestCase.mergeInBetween(Swift.Optional&lt;LeetCode.ListNode&gt;, Swift.Int, Swift.Int, Swift.Optional&lt;LeetCode.ListNode&gt;) -&gt; Swift.Optional&lt;LeetCode.ListNode&gt;"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/LinkedLists/MergeBetweenLinkedListsTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "609">
+               </Location>
+               <Location
+                  uuid = "5C1FE433-F641-4EB8-BB3C-CA73BEB179D5 - efae60778a5186ed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.MergeBetweenLinkedListsTestCase.mergeInBetween(Swift.Optional&lt;LeetCode.ListNode&gt;, Swift.Int, Swift.Int, Swift.Optional&lt;LeetCode.ListNode&gt;) -&gt; Swift.Optional&lt;LeetCode.ListNode&gt;"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/LinkedLists/MergeBetweenLinkedListsTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "600">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6EBFB3DE-880F-4D54-ACFE-6488EE57E7BC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/LinkedLists/MergeBetweenLinkedListsTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "mergeInBetween(_:_:_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0C92C5C6-E8FB-4B82-9EF4-31D26BB93CDE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/LinkedLists/MergeBetweenLinkedListsTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "mergeInBetween(_:_:_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0C92C5C6-E8FB-4B82-9EF4-31D26BB93CDE - 1c936afabc37b793"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static LeetCode.MergeBetweenLinkedListsTestCase.test() -&gt; Swift.Bool"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/LinkedLists/MergeBetweenLinkedListsTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "213">
+               </Location>
+               <Location
+                  uuid = "0C92C5C6-E8FB-4B82-9EF4-31D26BB93CDE - efae60778a518458"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.MergeBetweenLinkedListsTestCase.mergeInBetween(Swift.Optional&lt;LeetCode.ListNode&gt;, Swift.Int, Swift.Int, Swift.Optional&lt;LeetCode.ListNode&gt;) -&gt; Swift.Optional&lt;LeetCode.ListNode&gt;"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/LinkedLists/MergeBetweenLinkedListsTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "1138">
+               </Location>
+               <Location
+                  uuid = "0C92C5C6-E8FB-4B82-9EF4-31D26BB93CDE - efae60778a518458"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.MergeBetweenLinkedListsTestCase.mergeInBetween(Swift.Optional&lt;LeetCode.ListNode&gt;, Swift.Int, Swift.Int, Swift.Optional&lt;LeetCode.ListNode&gt;) -&gt; Swift.Optional&lt;LeetCode.ListNode&gt;"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/LinkedLists/MergeBetweenLinkedListsTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "1228">
+               </Location>
+               <Location
+                  uuid = "0C92C5C6-E8FB-4B82-9EF4-31D26BB93CDE - efae60778a518458"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.MergeBetweenLinkedListsTestCase.mergeInBetween(Swift.Optional&lt;LeetCode.ListNode&gt;, Swift.Int, Swift.Int, Swift.Optional&lt;LeetCode.ListNode&gt;) -&gt; Swift.Optional&lt;LeetCode.ListNode&gt;"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/LinkedLists/MergeBetweenLinkedListsTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "1183">
+               </Location>
+               <Location
+                  uuid = "0C92C5C6-E8FB-4B82-9EF4-31D26BB93CDE - efae60778a518458"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.MergeBetweenLinkedListsTestCase.mergeInBetween(Swift.Optional&lt;LeetCode.ListNode&gt;, Swift.Int, Swift.Int, Swift.Optional&lt;LeetCode.ListNode&gt;) -&gt; Swift.Optional&lt;LeetCode.ListNode&gt;"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/LinkedLists/MergeBetweenLinkedListsTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "1253">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "38428020-3389-4C45-9437-A0E2CB389CF8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/LinkedLists/MergeBetweenLinkedListsTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "mergeInBetween(_:_:_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "38428020-3389-4C45-9437-A0E2CB389CF8 - efae60778a518648"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.MergeBetweenLinkedListsTestCase.mergeInBetween(Swift.Optional&lt;LeetCode.ListNode&gt;, Swift.Int, Swift.Int, Swift.Optional&lt;LeetCode.ListNode&gt;) -&gt; Swift.Optional&lt;LeetCode.ListNode&gt;"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/LinkedLists/MergeBetweenLinkedListsTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "540">
+               </Location>
+               <Location
+                  uuid = "38428020-3389-4C45-9437-A0E2CB389CF8 - efae60778a518648"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.MergeBetweenLinkedListsTestCase.mergeInBetween(Swift.Optional&lt;LeetCode.ListNode&gt;, Swift.Int, Swift.Int, Swift.Optional&lt;LeetCode.ListNode&gt;) -&gt; Swift.Optional&lt;LeetCode.ListNode&gt;"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/LinkedLists/MergeBetweenLinkedListsTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "495">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3B88422A-22FB-4805-894B-27624AC5E738"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/LinkedLists/RemoveNodesFromLinkedListTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "removeNodes(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0EEFE080-9C1B-4CAB-A7A6-3980787599F0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/LinkedLists/RemoveNodesFromLinkedListTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "removeNodes(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "16E992FB-A092-45F5-AEA2-8B759DF5A498"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/LinkedLists/RemoveNodesFromLinkedListTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "removeNodes(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3B7AFC52-CD37-46FC-95A9-7A9957251819"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/LinkedLists/SwappingNodesLinkedListTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "swapNodes(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3B7AFC52-CD37-46FC-95A9-7A9957251819 - 1b555ba6df9ccf39"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.SwappingNodesLinkedListTestCase.swapNodes(Swift.Optional&lt;LeetCode.ListNode&gt;, Swift.Int) -&gt; Swift.Optional&lt;LeetCode.ListNode&gt;"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/LinkedLists/SwappingNodesLinkedListTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "1248">
+               </Location>
+               <Location
+                  uuid = "3B7AFC52-CD37-46FC-95A9-7A9957251819 - 1b555ba6df9ccf39"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.SwappingNodesLinkedListTestCase.swapNodes(Swift.Optional&lt;LeetCode.ListNode&gt;, Swift.Int) -&gt; Swift.Optional&lt;LeetCode.ListNode&gt;"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/LinkedLists/SwappingNodesLinkedListTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "1086">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "13FD1030-1EE0-4F47-ADC7-D8D7A2978D89"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/LinkedLists/LFUCacheTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "put(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "13FD1030-1EE0-4F47-ADC7-D8D7A2978D89 - 5b38236732d95916"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.LFUCache.put(Swift.Int, Swift.Int) -&gt; ()"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/LinkedLists/LFUCacheTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "203">
+               </Location>
+               <Location
+                  uuid = "13FD1030-1EE0-4F47-ADC7-D8D7A2978D89 - 5b38236732d95992"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.LFUCache.put(Swift.Int, Swift.Int) -&gt; ()"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/LinkedLists/LFUCacheTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "203">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C9581546-832B-470D-BEF0-AF2C490E84EB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/LinkedLists/LFUCacheTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "add(freq:key:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D02C8373-9558-4E63-9200-C2365D52ED01"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/LinkedLists/LFUCacheTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "put(_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "397ACBB6-4FBD-4794-93DC-086ABE7CEEF0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/LinkedLists/LinkedListRandomNodeTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "getRandom()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "14EE6F1C-1EB4-4885-93FC-B68064602DCF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/HashTables/RansomNoteTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "canConstruct(_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8DD4606A-43CF-4706-B781-3BD45DF5002C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/HashTables/RansomNoteTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "canConstruct(_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "660F8D0B-409F-4A7E-9A89-CE8F35219367"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/HashTables/RansomNoteTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "canConstruct(_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "71B90E59-709E-44B3-9A03-F2BD995CE97D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/HashTables/RansomNoteTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "canConstruct(_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7927A256-DCB8-47DB-ADC4-B10CB450E8B5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/HashTables/KthDistinctStringArrayTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "kthDistinct(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7927A256-DCB8-47DB-ADC4-B10CB450E8B5 - c6526f40d5ad485d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.KthDistinctStringArrayTestCase.kthDistinct(Swift.Array&lt;Swift.String&gt;, Swift.Int) -&gt; Swift.String"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/HashTables/KthDistinctStringArrayTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "1197">
+               </Location>
+               <Location
+                  uuid = "7927A256-DCB8-47DB-ADC4-B10CB450E8B5 - baaade89fc1c802f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String, LeetCode.KthDistinctStringArrayTestCase.Item) -&gt; LeetCode.KthDistinctStringArrayTestCase.Item in LeetCode.KthDistinctStringArrayTestCase.kthDistinct(Swift.Array&lt;Swift.String&gt;, Swift.Int) -&gt; Swift.String"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/HashTables/KthDistinctStringArrayTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  uuid = "7927A256-DCB8-47DB-ADC4-B10CB450E8B5 - 3f28bcf0b47b8517"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (LeetCode.KthDistinctStringArrayTestCase.Item, LeetCode.KthDistinctStringArrayTestCase.Item) -&gt; Swift.Bool in LeetCode.KthDistinctStringArrayTestCase.kthDistinct(Swift.Array&lt;Swift.String&gt;, Swift.Int) -&gt; Swift.String"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/HashTables/KthDistinctStringArrayTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "152">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1586AB31-28F1-4DFD-A575-922C6D254C73"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/HashTables/KthDistinctStringArrayTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "kthDistinct(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1586AB31-28F1-4DFD-A575-922C6D254C73 - e5455239b8576f15"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static LeetCode.KthDistinctStringArrayTestCase.test() -&gt; Swift.Bool"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/HashTables/KthDistinctStringArrayTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "37">
+               </Location>
+               <Location
+                  uuid = "1586AB31-28F1-4DFD-A575-922C6D254C73 - c6526f40d5ad4b67"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.KthDistinctStringArrayTestCase.kthDistinct(Swift.Array&lt;Swift.String&gt;, Swift.Int) -&gt; Swift.String"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/HashTables/KthDistinctStringArrayTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "1573">
+               </Location>
+               <Location
+                  uuid = "1586AB31-28F1-4DFD-A575-922C6D254C73 - c6526f40d5ad4bfa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.KthDistinctStringArrayTestCase.kthDistinct(Swift.Array&lt;Swift.String&gt;, Swift.Int) -&gt; Swift.String"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/HashTables/KthDistinctStringArrayTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "1573">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FE4FE30B-9598-4CA7-8766-146B5AAFE577"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/HashTables/MaximumNumberWordsYouCanTypeTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "canBeTypedWords(_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "705BCD2B-BBCA-4D44-A6DF-E080CD33D5F3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/HashTables/MaximumNumberWordsYouCanTypeTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "canBeTypedWords(_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E16072E6-F394-471C-A1CE-83EDBF262E06"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/HashTables/NextGreaterElementITestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "nextGreaterElement(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E16072E6-F394-471C-A1CE-83EDBF262E06 - e21e5df028ef206e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.NextGreaterElementI.nextGreaterElement(Swift.Array&lt;Swift.Int&gt;, Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/HashTables/NextGreaterElementITestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "1937">
+               </Location>
+               <Location
+                  uuid = "E16072E6-F394-471C-A1CE-83EDBF262E06 - e21e5df028ef206e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.NextGreaterElementI.nextGreaterElement(Swift.Array&lt;Swift.Int&gt;, Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/HashTables/NextGreaterElementITestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "1944">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B00A9E63-91A0-4449-A1BD-8B8495C8B5B7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/Math/CellsOddValuesInMatrixTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "oddCells(_:_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1F084DF5-121D-4878-85FE-EC371E82C9CC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/Math/MinimumTimeVisitingAllPointsTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "minTimeToVisitAllPoints(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1F084DF5-121D-4878-85FE-EC371E82C9CC - 899253a780ce3c81"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.MinimumTimeVisitingAllPointsTestCase.minTimeToVisitAllPoints(Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;) -&gt; Swift.Int"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/Math/MinimumTimeVisitingAllPointsTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "368">
+               </Location>
+               <Location
+                  uuid = "1F084DF5-121D-4878-85FE-EC371E82C9CC - 899253a780ce3ca0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.MinimumTimeVisitingAllPointsTestCase.minTimeToVisitAllPoints(Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;) -&gt; Swift.Int"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/Math/MinimumTimeVisitingAllPointsTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "421">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8B2601B9-A6B2-48F5-AE23-580E0B31A733"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/Math/SelfDividingNumbersTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "test()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C24742C0-23B1-43EF-90C2-FAA3C744F6F7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/Math/SelfDividingNumbersTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "isSelfDividing(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "56B58AA0-669A-471F-8D5D-90C7AEE5B5DB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/Math/SelfDividingNumbersTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "isSelfDividing(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "52E36A0B-C1AE-40B6-B5D7-9A354696CA63"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/Math/SelfDividingNumbersTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "isSelfDividing(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "52E36A0B-C1AE-40B6-B5D7-9A354696CA63 - 5d8e4d9aaa69c338"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.SelfDividingNumbersTestCase.isSelfDividing(Swift.Int) -&gt; Swift.Bool"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/Math/SelfDividingNumbersTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "1016">
+               </Location>
+               <Location
+                  uuid = "52E36A0B-C1AE-40B6-B5D7-9A354696CA63 - 5d8e4d9aaa69c338"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.SelfDividingNumbersTestCase.isSelfDividing(Swift.Int) -&gt; Swift.Bool"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/Math/SelfDividingNumbersTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "1023">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "958F6EBE-5CA8-4E3F-9237-696A625235A2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/Math/CountDigitsThatDivideNumberTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "countDigits(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "958F6EBE-5CA8-4E3F-9237-696A625235A2 - 5786c988a4fa3928"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.CountDigitsThatDivideNumberTestCase.countDigits(Swift.Int) -&gt; Swift.Int"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/Math/CountDigitsThatDivideNumberTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "1266">
+               </Location>
+               <Location
+                  uuid = "958F6EBE-5CA8-4E3F-9237-696A625235A2 - 5786c988a4fa3928"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.CountDigitsThatDivideNumberTestCase.countDigits(Swift.Int) -&gt; Swift.Int"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/Math/CountDigitsThatDivideNumberTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "1130">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B1D17502-7E57-46D2-8CFE-44E1AAC2550F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/Arrays/All/FindDistinctDifferenceArrayTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "distinctDifferenceArray(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "813D4FFF-DC20-4D22-A770-6D2EFCE5D5AD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/HashTables/SubstringsSizeThreeDistinctCharactersTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "countGoodSubstrings(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6704BB1E-88C7-49EC-A81E-EB1B46697347"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/HashTables/SubstringsSizeThreeDistinctCharactersTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "countGoodSubstrings(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "206CC4E8-B312-4B68-83ED-1176BE7503CF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/HashTables/SortArrayIncreasingFrequencyTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "frequencySort(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "206CC4E8-B312-4B68-83ED-1176BE7503CF - 4107000485cf10e5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.SortArrayIncreasingFrequencyTestCase.frequencySort(Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/HashTables/SortArrayIncreasingFrequencyTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "920">
+               </Location>
+               <Location
+                  uuid = "206CC4E8-B312-4B68-83ED-1176BE7503CF - 1049cb52fe2d3026"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((key: Swift.Int, value: Swift.Int), (key: Swift.Int, value: Swift.Int)) -&gt; Swift.Bool in LeetCode.SortArrayIncreasingFrequencyTestCase.frequencySort(Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/HashTables/SortArrayIncreasingFrequencyTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "45">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0290003C-80D9-4D1E-915D-9A64021C6798"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/HashTables/SortArrayIncreasingFrequencyTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "frequencySort(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0290003C-80D9-4D1E-915D-9A64021C6798 - 4107000485cf10c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.SortArrayIncreasingFrequencyTestCase.frequencySort(Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/HashTables/SortArrayIncreasingFrequencyTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "1078">
+               </Location>
+               <Location
+                  uuid = "0290003C-80D9-4D1E-915D-9A64021C6798 - 3ea9d4e28d28e321"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 ((key: Swift.Int, value: Swift.Int)) -&gt; Swift.Int in LeetCode.SortArrayIncreasingFrequencyTestCase.frequencySort(Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/HashTables/SortArrayIncreasingFrequencyTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "0290003C-80D9-4D1E-915D-9A64021C6798 - 3242a5942298e156"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 ((key: Swift.Int, value: Swift.Int)) -&gt; Swift.Array&lt;Swift.Int&gt; in LeetCode.SortArrayIncreasingFrequencyTestCase.frequencySort(Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/HashTables/SortArrayIncreasingFrequencyTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "38">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "197CF7D2-1EB4-4252-A8C4-C11EAB69B02E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/HashTables/CountCommonWordsOneOccurrenceTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "countWords(_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1932B6A3-C9D0-471C-857F-3D6E1ACC274B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/HashTables/CountCommonWordsOneOccurrenceTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "countWords(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1932B6A3-C9D0-471C-857F-3D6E1ACC274B - f5e0a2e4fb7b15c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.CountCommonWordsOneOccurrenceTestCase.countWords(Swift.Array&lt;Swift.String&gt;, Swift.Array&lt;Swift.String&gt;) -&gt; Swift.Int"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/HashTables/CountCommonWordsOneOccurrenceTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "2152">
+               </Location>
+               <Location
+                  uuid = "1932B6A3-C9D0-471C-857F-3D6E1ACC274B - 7d9f09d17aa80328"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int, (key: Swift.String, value: Swift.Int)) -&gt; Swift.Int in LeetCode.CountCommonWordsOneOccurrenceTestCase.countWords(Swift.Array&lt;Swift.String&gt;, Swift.Array&lt;Swift.String&gt;) -&gt; Swift.Int"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/HashTables/CountCommonWordsOneOccurrenceTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "98">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A748D775-D7E0-4895-AD10-134827921D22"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/HashTables/ConvertArray2DArrayTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "findMatrix(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A748D775-D7E0-4895-AD10-134827921D22 - 4b81be9a1b9775e3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.ConvertArray2DArrayTestCase.findMatrix(Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/HashTables/ConvertArray2DArrayTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "1567">
+               </Location>
+               <Location
+                  uuid = "A748D775-D7E0-4895-AD10-134827921D22 - 22849cb26d6c6853"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((key: Swift.Int, value: Swift.Array&lt;Swift.Int&gt;)) -&gt; Swift.Array&lt;Swift.Int&gt; in LeetCode.ConvertArray2DArrayTestCase.findMatrix(Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/HashTables/ConvertArray2DArrayTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "42">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "524118C3-DC8C-4012-9EF3-BC83B2EB5909"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/HashTables/FindingUsersActiveMinutesTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "findingUsersActiveMinutes(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "524118C3-DC8C-4012-9EF3-BC83B2EB5909 - e3c363e80d3e2a3c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static LeetCode.FindingUsersActiveMinutesTestCase.test() -&gt; Swift.Bool"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/HashTables/FindingUsersActiveMinutesTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "34">
+               </Location>
+               <Location
+                  uuid = "524118C3-DC8C-4012-9EF3-BC83B2EB5909 - 497ecee361be2eec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.FindingUsersActiveMinutesTestCase.findingUsersActiveMinutes(Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;, Swift.Int) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/HashTables/FindingUsersActiveMinutesTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "2165">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7CBAA4A3-DCF6-4938-97F0-26BEFE818E95"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/HashTables/FindingUsersActiveMinutesTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "test()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0DDAA376-97B3-4642-9172-0405E557DF32"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/HashTables/OptimalPartitionStringTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "partitionString(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E50C5B2C-B6FB-4793-9141-135927CA48E8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/HashTables/OptimalPartitionStringTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "partitionString(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E50C5B2C-B6FB-4793-9141-135927CA48E8 - b51c92caf9338159"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.OptimalPartitionStringTestCase.partitionString(Swift.String) -&gt; Swift.Int"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/HashTables/OptimalPartitionStringTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "1230">
+               </Location>
+               <Location
+                  uuid = "E50C5B2C-B6FB-4793-9141-135927CA48E8 - b51c92caf93381e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.OptimalPartitionStringTestCase.partitionString(Swift.String) -&gt; Swift.Int"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/HashTables/OptimalPartitionStringTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "1142">
+               </Location>
+               <Location
+                  uuid = "E50C5B2C-B6FB-4793-9141-135927CA48E8 - b51c92caf93381e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.OptimalPartitionStringTestCase.partitionString(Swift.String) -&gt; Swift.Int"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/HashTables/OptimalPartitionStringTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "1080">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C93C1F6B-C3BE-4CA1-BA4A-158972A96B0B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/HashTables/OptimalPartitionStringTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "test()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CE3D595A-0B62-4785-A025-C8587BE0A09F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/HashTables/OptimalPartitionStringTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "partitionString(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E0FBD4CA-8509-4DC2-92CD-1926C1AA9E2C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/LinkedLists/OddEvenLinkedListTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "oddEvenList(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E0FBD4CA-8509-4DC2-92CD-1926C1AA9E2C - 899e7455a3c2ddee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.OddEvenLinkedListTestCase.oddEvenList(Swift.Optional&lt;LeetCode.ListNode&gt;) -&gt; Swift.Optional&lt;LeetCode.ListNode&gt;"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/LinkedLists/OddEvenLinkedListTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "1012">
+               </Location>
+               <Location
+                  uuid = "E0FBD4CA-8509-4DC2-92CD-1926C1AA9E2C - 899e7455a3c2ddee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.OddEvenLinkedListTestCase.oddEvenList(Swift.Optional&lt;LeetCode.ListNode&gt;) -&gt; Swift.Optional&lt;LeetCode.ListNode&gt;"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/LinkedLists/OddEvenLinkedListTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "1160">
+               </Location>
+               <Location
+                  uuid = "E0FBD4CA-8509-4DC2-92CD-1926C1AA9E2C - 899e7455a3c2ddee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.OddEvenLinkedListTestCase.oddEvenList(Swift.Optional&lt;LeetCode.ListNode&gt;) -&gt; Swift.Optional&lt;LeetCode.ListNode&gt;"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/LinkedLists/OddEvenLinkedListTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "1180">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1456C87B-3A31-4B89-BE0E-555589352734"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/LinkedLists/OddEvenLinkedListTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "oddEvenList(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "586E872A-6F85-488E-9748-E50DD4FA80B1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/LinkedLists/FlattenBinaryTreeLinkedListTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "run()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A863EDC7-6EFE-492E-B8FF-34E585A39051"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/LinkedLists/FlattenBinaryTreeLinkedListTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "flatten(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A863EDC7-6EFE-492E-B8FF-34E585A39051 - efe69f3295e18ecb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.FlattenBinaryTreeLinkedListTestcase.TLR(node: Swift.Optional&lt;LeetCode.TreeNode&gt;, result: inout Swift.Array&lt;Swift.Int&gt;) -&gt; ()"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/LinkedLists/FlattenBinaryTreeLinkedListTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  uuid = "A863EDC7-6EFE-492E-B8FF-34E585A39051 - 1f6334f0cb7d7162"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.FlattenBinaryTreeLinkedListTestcase.flatten(Swift.Optional&lt;LeetCode.TreeNode&gt;) -&gt; ()"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/LinkedLists/FlattenBinaryTreeLinkedListTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "817">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "81F8B4C0-E733-4975-92CF-FECC4813785E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/Stack/RemoveOutermostParenthesesTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "removeOuterParentheses(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "81F8B4C0-E733-4975-92CF-FECC4813785E - 8a712b38bf409380"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static LeetCode.RemoveOutermostParenthesesTestCase.test() -&gt; Swift.Bool"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/Stack/RemoveOutermostParenthesesTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "34">
+               </Location>
+               <Location
+                  uuid = "81F8B4C0-E733-4975-92CF-FECC4813785E - 87fb43e5fc274eaa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.RemoveOutermostParenthesesTestCase.removeOuterParentheses(Swift.String) -&gt; Swift.String"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/Stack/RemoveOutermostParenthesesTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "1086">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5D595D2C-AAB3-47BE-9C2E-BE1769B49E86"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/Sorting/MinimumSumFourDigitNumberSplittingTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "minimumSum(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C8CF6C65-DC18-40C3-92F4-CB96E8DE565C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/Sorting/DeleteGreatestValueEachRowTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "deleteGreatestValue(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FC6ECAB9-3ABF-4606-882B-AC01033F70F0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/Sorting/DeleteGreatestValueEachRowTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "deleteGreatestValue(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FC6ECAB9-3ABF-4606-882B-AC01033F70F0 - f262f583a18307a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.DeleteGreatestValueEachRowTestCase.deleteGreatestValue(Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;) -&gt; Swift.Int"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/Sorting/DeleteGreatestValueEachRowTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "1527">
+               </Location>
+               <Location
+                  uuid = "FC6ECAB9-3ABF-4606-882B-AC01033F70F0 - f262f583a18307a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.DeleteGreatestValueEachRowTestCase.deleteGreatestValue(Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;) -&gt; Swift.Int"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/Sorting/DeleteGreatestValueEachRowTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "1629">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "99E67C2E-B905-4B4E-B3C7-86B92EF69BF7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/Math/MinimumOperationsCollectElementsTestCase .swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "minOperations(_:_:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6EA5FE32-5531-4FC5-BAC1-343162AB89F8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/Math/MinimumOperationsCollectElementsTestCase .swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "minOperations(_:_:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "6EA5FE32-5531-4FC5-BAC1-343162AB89F8 - 43f9b25ed51be3e3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.MinimumOperationsCollectElementsTestCase.minOperations(Swift.Array&lt;Swift.Int&gt;, Swift.Int) -&gt; Swift.Int"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/Math/MinimumOperationsCollectElementsTestCase%20.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "1263">
+               </Location>
+               <Location
+                  uuid = "6EA5FE32-5531-4FC5-BAC1-343162AB89F8 - 43f9b25ed51be3e3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.MinimumOperationsCollectElementsTestCase.minOperations(Swift.Array&lt;Swift.Int&gt;, Swift.Int) -&gt; Swift.Int"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/Math/MinimumOperationsCollectElementsTestCase%20.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "1296">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0CEE5D89-A0EE-4DC4-AF31-66B43170F81B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/Math/PointsThatIntersectWithCarsTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "numberOfPoints(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0CEE5D89-A0EE-4DC4-AF31-66B43170F81B - 7ea52a9e81e2b4c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.PointsThatIntersectWithCarsTestCase.numberOfPoints(Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;) -&gt; Swift.Int"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/Math/PointsThatIntersectWithCarsTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "2795">
+               </Location>
+               <Location
+                  uuid = "0CEE5D89-A0EE-4DC4-AF31-66B43170F81B - b800a56a97fb37b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (LeetCode.PointsThatIntersectWithCarsTestCase.Range) -&gt; Swift.Int in LeetCode.PointsThatIntersectWithCarsTestCase.numberOfPoints(Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;) -&gt; Swift.Int"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/Math/PointsThatIntersectWithCarsTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "19">
+               </Location>
+               <Location
+                  uuid = "0CEE5D89-A0EE-4DC4-AF31-66B43170F81B - 8b63966d43efb2aa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #4 (Swift.Int, Swift.Int) -&gt; Swift.Int in LeetCode.PointsThatIntersectWithCarsTestCase.numberOfPoints(Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;) -&gt; Swift.Int"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/Math/PointsThatIntersectWithCarsTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "78">
+               </Location>
+               <Location
+                  uuid = "0CEE5D89-A0EE-4DC4-AF31-66B43170F81B - 4bc538f2990aeb27"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static LeetCode.PointsThatIntersectWithCarsTestCase.test() -&gt; Swift.Bool"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/Math/PointsThatIntersectWithCarsTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "34">
+               </Location>
+               <Location
+                  uuid = "0CEE5D89-A0EE-4DC4-AF31-66B43170F81B - 7ea52a9e81e2b465"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.PointsThatIntersectWithCarsTestCase.numberOfPoints(Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;) -&gt; Swift.Int"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/Math/PointsThatIntersectWithCarsTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "2832">
+               </Location>
+               <Location
+                  uuid = "0CEE5D89-A0EE-4DC4-AF31-66B43170F81B - b800a56a97fb3716"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (LeetCode.PointsThatIntersectWithCarsTestCase.Range) -&gt; Swift.Int in LeetCode.PointsThatIntersectWithCarsTestCase.numberOfPoints(Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;) -&gt; Swift.Int"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/Math/PointsThatIntersectWithCarsTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "19">
+               </Location>
+               <Location
+                  uuid = "0CEE5D89-A0EE-4DC4-AF31-66B43170F81B - 8b63966d43efb20d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #4 (Swift.Int, Swift.Int) -&gt; Swift.Int in LeetCode.PointsThatIntersectWithCarsTestCase.numberOfPoints(Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;) -&gt; Swift.Int"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/Math/PointsThatIntersectWithCarsTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "78">
+               </Location>
+               <Location
+                  uuid = "0CEE5D89-A0EE-4DC4-AF31-66B43170F81B - 4bc538f2990ae8b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static LeetCode.PointsThatIntersectWithCarsTestCase.test() -&gt; Swift.Bool"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/Math/PointsThatIntersectWithCarsTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "34">
+               </Location>
+               <Location
+                  uuid = "0CEE5D89-A0EE-4DC4-AF31-66B43170F81B - 7ea52a9e81e2b7a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.PointsThatIntersectWithCarsTestCase.numberOfPoints(Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;) -&gt; Swift.Int"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/Math/PointsThatIntersectWithCarsTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "3320">
+               </Location>
+               <Location
+                  uuid = "0CEE5D89-A0EE-4DC4-AF31-66B43170F81B - b800a56a97fb34d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (LeetCode.PointsThatIntersectWithCarsTestCase.Range) -&gt; Swift.Int in LeetCode.PointsThatIntersectWithCarsTestCase.numberOfPoints(Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;) -&gt; Swift.Int"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/Math/PointsThatIntersectWithCarsTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "19">
+               </Location>
+               <Location
+                  uuid = "0CEE5D89-A0EE-4DC4-AF31-66B43170F81B - b459722ead1ac9f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #8 (Swift.Int, Swift.Int) -&gt; Swift.Int in LeetCode.PointsThatIntersectWithCarsTestCase.numberOfPoints(Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;) -&gt; Swift.Int"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/Math/PointsThatIntersectWithCarsTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "78">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "732524B8-11DE-4191-B4BE-A81B69962F17"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/Math/PointsThatIntersectWithCarsTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "numberOfPoints(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0AEF647B-0364-460C-82C0-5DD28E5A1F5E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/Math/PointsThatIntersectWithCarsTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "numberOfPoints(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C1ECA608-B9F5-4B51-BC59-FAB058BB2800"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/Math/PointsThatIntersectWithCarsTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "numberOfPoints(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C1ECA608-B9F5-4B51-BC59-FAB058BB2800 - 7ea52a9e81e2b480"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.PointsThatIntersectWithCarsTestCase.numberOfPoints(Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;) -&gt; Swift.Int"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/Math/PointsThatIntersectWithCarsTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "2621">
+               </Location>
+               <Location
+                  uuid = "C1ECA608-B9F5-4B51-BC59-FAB058BB2800 - 7ea52a9e81e2b4af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.PointsThatIntersectWithCarsTestCase.numberOfPoints(Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;) -&gt; Swift.Int"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/Math/PointsThatIntersectWithCarsTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "3086">
+               </Location>
+               <Location
+                  uuid = "C1ECA608-B9F5-4B51-BC59-FAB058BB2800 - 7ea52a9e81e2b4af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.PointsThatIntersectWithCarsTestCase.numberOfPoints(Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;) -&gt; Swift.Int"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/Math/PointsThatIntersectWithCarsTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "3736">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B944FC2B-7A14-4600-B9C9-BE05E963C723"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/Math/PointsThatIntersectWithCarsTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "numberOfPoints(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B944FC2B-7A14-4600-B9C9-BE05E963C723 - 7ea52a9e81e2b404"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.PointsThatIntersectWithCarsTestCase.numberOfPoints(Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;) -&gt; Swift.Int"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/Math/PointsThatIntersectWithCarsTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "2801">
+               </Location>
+               <Location
+                  uuid = "B944FC2B-7A14-4600-B9C9-BE05E963C723 - 7ea52a9e81e2b404"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.PointsThatIntersectWithCarsTestCase.numberOfPoints(Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;) -&gt; Swift.Int"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/Math/PointsThatIntersectWithCarsTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "3140">
+               </Location>
+               <Location
+                  uuid = "B944FC2B-7A14-4600-B9C9-BE05E963C723 - 7ea52a9e81e2b404"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.PointsThatIntersectWithCarsTestCase.numberOfPoints(Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;) -&gt; Swift.Int"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/Math/PointsThatIntersectWithCarsTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "3790">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7D864B7E-9BC1-4A9A-89A7-01B7FCBC6B77"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/Math/MinimumRemoveMakeValidParenthesesTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "minRemoveToMakeValid(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3178B5B4-75D6-4DAF-88B9-C30FBF3F3421"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/Math/MinimumRemoveMakeValidParenthesesTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "minRemoveToMakeValid(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3178B5B4-75D6-4DAF-88B9-C30FBF3F3421 - fce99079cf3fbc6b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.MinimumRemoveMakeValidParenthesesTestCase.minRemoveToMakeValid(Swift.String) -&gt; Swift.String"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/Math/MinimumRemoveMakeValidParenthesesTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "2997">
+               </Location>
+               <Location
+                  uuid = "3178B5B4-75D6-4DAF-88B9-C30FBF3F3421 - f7480d594f0dd0f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (LeetCode.MinimumRemoveMakeValidParenthesesTestCase.Parenthes) -&gt; Swift.Int in LeetCode.MinimumRemoveMakeValidParenthesesTestCase.minRemoveToMakeValid(Swift.String) -&gt; Swift.String"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/Math/MinimumRemoveMakeValidParenthesesTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "8">
+               </Location>
+               <Location
+                  uuid = "3178B5B4-75D6-4DAF-88B9-C30FBF3F3421 - 35d9b6bdd4a2e25"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static LeetCode.MinimumRemoveMakeValidParenthesesTestCase.test() -&gt; Swift.Bool"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/Math/MinimumRemoveMakeValidParenthesesTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "34">
+               </Location>
+               <Location
+                  uuid = "3178B5B4-75D6-4DAF-88B9-C30FBF3F3421 - fce99079cf3fbd73"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.MinimumRemoveMakeValidParenthesesTestCase.minRemoveToMakeValid(Swift.String) -&gt; Swift.String"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/Math/MinimumRemoveMakeValidParenthesesTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "3337">
+               </Location>
+               <Location
+                  uuid = "3178B5B4-75D6-4DAF-88B9-C30FBF3F3421 - f7480d594f0dd1e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (LeetCode.MinimumRemoveMakeValidParenthesesTestCase.Parenthes) -&gt; Swift.Int in LeetCode.MinimumRemoveMakeValidParenthesesTestCase.minRemoveToMakeValid(Swift.String) -&gt; Swift.String"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/Math/MinimumRemoveMakeValidParenthesesTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "8">
+               </Location>
+               <Location
+                  uuid = "3178B5B4-75D6-4DAF-88B9-C30FBF3F3421 - fce99079cf3fbd73"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.MinimumRemoveMakeValidParenthesesTestCase.minRemoveToMakeValid(Swift.String) -&gt; Swift.String"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/Math/MinimumRemoveMakeValidParenthesesTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "3173">
+               </Location>
+               <Location
+                  uuid = "3178B5B4-75D6-4DAF-88B9-C30FBF3F3421 - fce99079cf3fbd73"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.MinimumRemoveMakeValidParenthesesTestCase.minRemoveToMakeValid(Swift.String) -&gt; Swift.String"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/Math/MinimumRemoveMakeValidParenthesesTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "3429">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "70453D1F-8C37-4B80-958F-2CFFB9858861"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/Math/MinimumRemoveMakeValidParenthesesTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "minRemoveToMakeValid(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "70453D1F-8C37-4B80-958F-2CFFB9858861 - fce99079cf3fbf00"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.MinimumRemoveMakeValidParenthesesTestCase.minRemoveToMakeValid(Swift.String) -&gt; Swift.String"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/Math/MinimumRemoveMakeValidParenthesesTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "1717">
+               </Location>
+               <Location
+                  uuid = "70453D1F-8C37-4B80-958F-2CFFB9858861 - fce99079cf3fbf00"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.MinimumRemoveMakeValidParenthesesTestCase.minRemoveToMakeValid(Swift.String) -&gt; Swift.String"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/Math/MinimumRemoveMakeValidParenthesesTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "1739">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "34AC4558-2732-4788-9AA8-35D977ABD25B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/Math/MinimumRemoveMakeValidParenthesesTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "minRemoveToMakeValid(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3594E421-560E-4C44-A89E-5C0A4F09D188"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/Math/MinimumRemoveMakeValidParenthesesTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "minRemoveToMakeValid(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E9F46314-0D8C-48E4-9537-89183FF1BAE9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/Math/MinimumRemoveMakeValidParenthesesTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "minRemoveToMakeValid(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E308E7F5-7EF3-4F3F-A55D-95C7ECF7A2E7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/Math/MinimumRemoveMakeValidParenthesesTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "minRemoveToMakeValid(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4D7F1340-9DBB-4C06-94CE-56D6EA0E38E5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/Math/MinimumRemoveMakeValidParenthesesTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "test()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1E0B1DD4-F006-4F77-AC7C-4A28A3CE3BA1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/Math/MinimumRemoveMakeValidParenthesesTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "minRemoveToMakeValid(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "02A2E154-77F1-4853-B1D6-C130AD34F4CB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/Math/CheckIsStraightLineTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "checkStraightLine(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C2FD5D41-ACF6-47E6-A6E8-746770129034"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/Math/CheckIsStraightLineTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "getK(a:b:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F0C6F114-608D-463A-A68F-E4F404581E42"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/Math/CheckIsStraightLineTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "getK(a:b:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4773704E-A489-4D1C-832D-4B2E9EF28A2F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/Math/WordPatternTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "wordPattern(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4773704E-A489-4D1C-832D-4B2E9EF28A2F - 74d49235c05ba62e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.WordPatternTestCase.wordPattern(Swift.String, Swift.String) -&gt; Swift.Bool"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/Math/WordPatternTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "2084">
+               </Location>
+               <Location
+                  uuid = "4773704E-A489-4D1C-832D-4B2E9EF28A2F - 74d49235c05ba62e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.WordPatternTestCase.wordPattern(Swift.String, Swift.String) -&gt; Swift.Bool"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/Math/WordPatternTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "1718">
+               </Location>
+               <Location
+                  uuid = "4773704E-A489-4D1C-832D-4B2E9EF28A2F - 74d49235c05ba760"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.WordPatternTestCase.wordPattern(Swift.String, Swift.String) -&gt; Swift.Bool"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/Math/WordPatternTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "2112">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "57EAFBDF-091C-4134-9006-794AC5BCD836"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/Math/WordPatternTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "wordPattern(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "57EAFBDF-091C-4134-9006-794AC5BCD836 - 74d49235c05ba1f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.WordPatternTestCase.wordPattern(Swift.String, Swift.String) -&gt; Swift.Bool"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/Math/WordPatternTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "1677">
+               </Location>
+               <Location
+                  uuid = "57EAFBDF-091C-4134-9006-794AC5BCD836 - 74d49235c05ba1f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.WordPatternTestCase.wordPattern(Swift.String, Swift.String) -&gt; Swift.Bool"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/Math/WordPatternTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "1429">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "70C33D55-D8A0-4F5A-8EEB-74CA4D8B9E2C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/Math/WordPatternTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "wordPattern(_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6B18FE66-06E9-441A-B88E-D40B097E5FE5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/Strings/ReverseVowelsOfStringTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "reverseVowels(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6B18FE66-06E9-441A-B88E-D40B097E5FE5 - a3d45ee994543b7a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.ReverseVowelsOfStringTestCase.reverseVowels(Swift.String) -&gt; Swift.String"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/Strings/ReverseVowelsOfStringTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "2673">
+               </Location>
+               <Location
+                  uuid = "6B18FE66-06E9-441A-B88E-D40B097E5FE5 - a3d45ee994543b7a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.ReverseVowelsOfStringTestCase.reverseVowels(Swift.String) -&gt; Swift.String"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/Strings/ReverseVowelsOfStringTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "2701">
+               </Location>
+               <Location
+                  uuid = "6B18FE66-06E9-441A-B88E-D40B097E5FE5 - a3d45ee994543b7a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.ReverseVowelsOfStringTestCase.reverseVowels(Swift.String) -&gt; Swift.String"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maximsubbotin/Documents/GitHub/LeetCode-Swift/LeetCode/LeetCode/Strings/ReverseVowelsOfStringTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "2729">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

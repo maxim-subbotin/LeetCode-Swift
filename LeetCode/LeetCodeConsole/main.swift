@@ -11,6 +11,6 @@ import LeetCode
 runTest()
 
 func runTest() {
-    let res = FindingUsersActiveMinutesTestCase.test()
+    let res = ReverseVowelsOfStringTestCase.test()
     print(res)
 }
